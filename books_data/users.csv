@@ -1,0 +1,5001 @@
+user_id,location,age
+1,North Dakota,69
+2,California,24
+4,Missouri,98
+6,Rhode Island,66
+8,Hawaii,64
+9,Iowa,72
+11,District of Columbia,89
+15,Montana,97
+18,North Dakota,36
+22,New Jersey,22
+24,United States Minor Outlying Islands ,36
+25,Maryland,70
+28,Iowa,59
+32,Virgin Islands,23
+29,Guam,82
+34,North Dakota,85
+40,Rhode Island,29
+31,Maine,28
+43,Michigan,50
+49,Michigan,49
+46,Louisiana,51
+50,Pennsylvania,43
+53,Rhode Island,67
+55,Massachusetts,50
+58,Louisiana,51
+61,American Samoa ,71
+62,Delaware,76
+65,Montana,41
+66,Indiana,84
+54,South Dakota,41
+56,District of Columbia,22
+69,Kansas,54
+70,Pennsylvania,24
+63,Illinois,22
+72,Arizona,92
+73,Louisiana,58
+59,Kansas,51
+74,New Jersey,47
+75,Puerto Rico,76
+76,Virginia,38
+80,Connecticut,46
+38,Maine,89
+83,Mississippi,23
+85,North Dakota,56
+78,California,35
+45,Guam,43
+89,American Samoa ,85
+93,Pennsylvania,94
+94,Hawaii,60
+100,Virginia,74
+26,Michigan,89
+103,Connecticut,66
+105,Tennessee,84
+108,Colorado,62
+112,Nebraska,26
+113,New York,60
+114,District of Columbia,82
+115,Nevada,75
+117,Missouri,43
+86,New Mexico,66
+90,California,49
+116,California,83
+123,Alaska,88
+124,Pennsylvania,19
+125,New Mexico,71
+126,Florida,21
+128,Wyoming,48
+129,Guam,82
+135,Northern Mariana Islands ,64
+122,Ohio,75
+137,Connecticut,67
+136,Oklahoma,35
+141,Rhode Island,40
+142,Colorado,72
+143,Utah,95
+149,Nevada,96
+151,New Mexico,80
+156,Delaware,64
+130,District of Columbia,48
+158,Guam,92
+164,Puerto Rico,49
+36,New Mexico,65
+167,District of Columbia,83
+169,California,88
+173,Arkansas,76
+174,Puerto Rico,55
+175,Nebraska,42
+177,Vermont,91
+176,Rhode Island,53
+180,Nevada,96
+178,Massachusetts,85
+183,New Hampshire,22
+171,Northern Mariana Islands ,60
+184,South Carolina,19
+185,Washington,78
+187,South Dakota,98
+189,Iowa,64
+168,North Dakota,57
+190,Florida,91
+106,Virginia,30
+191,South Carolina,79
+194,South Carolina,94
+195,Wisconsin,73
+196,Oklahoma,80
+197,North Carolina,29
+199,Alaska,61
+179,Hawaii,62
+10,Nevada,76
+202,Mississippi,57
+203,Colorado,86
+204,American Samoa ,41
+205,New Mexico,29
+207,Wisconsin,88
+206,Maine,95
+210,Montana,59
+212,Arkansas,84
+214,Montana,68
+219,Delaware,53
+220,Ohio,88
+223,Rhode Island,58
+228,United States Minor Outlying Islands ,96
+229,Northern Mariana Islands ,50
+230,Kansas,94
+232,Georgia,57
+233,South Carolina,29
+42,Kansas,26
+237,Wyoming,35
+239,Guam,44
+240,Nebraska,96
+245,Northern Mariana Islands ,83
+242,Michigan,34
+247,Oklahoma,34
+246,Vermont,83
+248,Puerto Rico,93
+250,Tennessee,21
+253,Florida,52
+255,Texas,54
+256,Delaware,90
+257,United States Minor Outlying Islands ,64
+258,Pennsylvania,82
+238,Rhode Island,37
+77,Ohio,96
+162,New Mexico,37
+263,Kansas,22
+264,Mississippi,58
+265,Puerto Rico,25
+155,Minnesota,89
+269,Tennessee,67
+101,Illinois,47
+274,Nebraska,73
+271,Maryland,47
+276,Wisconsin,41
+278,Montana,86
+21,Washington,81
+283,Arkansas,59
+285,Alabama,79
+286,Illinois,52
+279,Colorado,54
+131,Connecticut,80
+287,Georgia,41
+284,Florida,49
+289,American Samoa ,93
+243,Montana,61
+296,Alabama,38
+297,Alabama,76
+215,Missouri,59
+298,Alabama,86
+301,Texas,61
+302,New Mexico,92
+311,Colorado,75
+299,District of Columbia,32
+300,Puerto Rico,62
+110,Kansas,47
+317,Alaska,32
+318,Louisiana,25
+303,Michigan,68
+319,New Mexico,70
+159,Oklahoma,72
+320,Texas,38
+325,South Carolina,60
+324,Kansas,58
+322,American Samoa ,31
+323,District of Columbia,95
+330,Alabama,52
+332,Virginia,40
+338,Utah,48
+340,Iowa,26
+312,Guam,86
+68,Massachusetts,55
+304,South Dakota,42
+344,Northern Mariana Islands ,85
+345,Vermont,96
+270,Montana,92
+347,Oklahoma,54
+351,Kansas,57
+352,Kansas,26
+342,Wisconsin,64
+356,Illinois,37
+357,South Dakota,36
+361,Maine,59
+362,North Dakota,94
+363,West Virginia,61
+364,Alabama,77
+360,Florida,58
+316,Alaska,67
+337,West Virginia,79
+370,Alabama,47
+154,Wyoming,50
+375,New Mexico,74
+378,North Dakota,98
+379,Northern Mariana Islands ,83
+331,Maryland,96
+384,Illinois,66
+385,Delaware,96
+387,Louisiana,61
+388,New Jersey,69
+386,Rhode Island,83
+389,California,72
+222,Oregon,36
+393,North Dakota,85
+394,Kansas,31
+395,Oklahoma,64
+396,South Dakota,81
+372,Hawaii,40
+399,New Hampshire,98
+400,Guam,34
+402,Virginia,54
+403,Arizona,72
+404,United States Minor Outlying Islands ,55
+401,Illinois,90
+410,South Dakota,30
+413,Louisiana,39
+415,Missouri,30
+416,North Dakota,46
+417,Georgia,92
+418,United States Minor Outlying Islands ,23
+406,Texas,52
+425,Iowa,59
+226,Massachusetts,25
+427,Idaho,48
+429,Washington,55
+209,Virgin Islands,35
+333,Michigan,67
+366,Louisiana,60
+439,Rhode Island,47
+440,North Dakota,21
+423,Hawaii,96
+444,Arizona,26
+446,Kentucky,28
+447,California,26
+200,Virginia,90
+449,South Dakota,49
+452,Hawaii,23
+453,Missouri,97
+454,Virginia,90
+433,Colorado,91
+455,Maryland,96
+456,Georgia,51
+457,Wyoming,90
+458,American Samoa ,87
+451,Alabama,81
+463,Louisiana,69
+465,Alaska,78
+468,Georgia,24
+473,Texas,18
+462,Nevada,29
+475,Arizona,21
+428,Massachusetts,36
+482,Virginia,63
+480,Hawaii,66
+420,Connecticut,28
+483,Vermont,27
+481,Florida,66
+485,Nevada,23
+488,Kentucky,81
+487,Illinois,36
+489,Guam,63
+367,Minnesota,36
+466,New Hampshire,77
+495,Louisiana,66
+498,Minnesota,79
+499,California,27
+497,Rhode Island,46
+490,Ohio,23
+503,Wisconsin,51
+506,Virgin Islands,21
+511,Pennsylvania,34
+512,Wyoming,87
+513,American Samoa ,44
+443,South Carolina,41
+516,Louisiana,32
+448,Florida,33
+517,Wyoming,72
+518,Montana,21
+519,Tennessee,95
+520,Ohio,44
+521,Georgia,85
+522,Wisconsin,74
+504,Colorado,48
+531,Florida,67
+532,Guam,22
+533,Kansas,96
+535,Missouri,72
+530,Guam,82
+537,Arkansas,26
+538,Alabama,78
+539,North Dakota,66
+540,Rhode Island,69
+542,Maine,95
+546,Michigan,20
+547,West Virginia,60
+548,North Carolina,93
+544,Northern Mariana Islands ,88
+550,Montana,70
+552,Puerto Rico,43
+267,Nebraska,98
+554,Northern Mariana Islands ,29
+549,United States Minor Outlying Islands ,62
+557,Illinois,36
+529,Kansas,66
+558,Mississippi,41
+543,Michigan,26
+561,New York,23
+562,Kentucky,41
+563,New Jersey,92
+564,North Dakota,81
+566,Texas,91
+569,Wyoming,30
+573,Ohio,87
+574,Oregon,94
+578,Oregon,34
+493,Pennsylvania,19
+582,Florida,39
+583,Idaho,83
+580,Connecticut,76
+555,Minnesota,51
+585,Oklahoma,77
+590,Alabama,58
+307,West Virginia,21
+592,Colorado,24
+589,New Jersey,77
+595,American Samoa ,52
+598,Mississippi,94
+579,Ohio,86
+599,Wisconsin,78
+600,Arkansas,24
+602,Minnesota,64
+603,Delaware,51
+608,Utah,78
+607,Connecticut,83
+610,Idaho,42
+613,Wisconsin,68
+606,Maryland,93
+605,Florida,18
+612,District of Columbia,80
+615,Oklahoma,21
+616,Idaho,35
+619,Michigan,88
+623,New Mexico,78
+626,Indiana,19
+618,South Carolina,55
+628,Pennsylvania,21
+630,Kansas,28
+632,South Dakota,83
+634,Delaware,84
+635,South Carolina,46
+637,Mississippi,50
+639,Washington,34
+494,New Jersey,53
+627,Pennsylvania,42
+643,Hawaii,92
+234,Montana,96
+650,Virginia,67
+651,Washington,34
+648,Indiana,90
+653,Guam,37
+654,Arkansas,73
+656,Montana,77
+657,Kansas,76
+391,North Carolina,45
+658,New Mexico,25
+624,New Mexico,22
+84,Missouri,33
+662,Utah,93
+665,Utah,26
+587,Georgia,20
+486,Indiana,72
+670,South Dakota,84
+218,Idaho,95
+675,New Jersey,37
+679,North Carolina,47
+647,Texas,34
+682,Pennsylvania,69
+412,Washington,62
+684,Tennessee,30
+687,Missouri,24
+688,Virginia,29
+691,Arkansas,24
+349,Indiana,47
+697,Alaska,85
+699,Wyoming,25
+698,Idaho,76
+669,Michigan,64
+663,Mississippi,39
+706,Alabama,91
+702,Kansas,24
+710,Alaska,95
+712,Minnesota,75
+714,Pennsylvania,96
+715,Maryland,77
+716,Northern Mariana Islands ,40
+689,Iowa,73
+717,Maryland,94
+718,Louisiana,76
+721,Missouri,89
+724,New York,74
+725,Alabama,92
+726,South Carolina,30
+629,Vermont,97
+731,Wisconsin,70
+683,Missouri,89
+735,Connecticut,53
+695,Puerto Rico,26
+741,Puerto Rico,65
+738,Georgia,27
+744,Puerto Rico,35
+745,Texas,25
+748,New Jersey,29
+749,Tennessee,54
+750,Illinois,18
+751,Louisiana,62
+752,Missouri,84
+755,New Hampshire,81
+757,Washington,73
+759,California,35
+760,Wyoming,76
+763,South Dakota,71
+764,Connecticut,95
+765,Guam,36
+740,Maine,39
+769,New Mexico,75
+770,Washington,56
+736,Nebraska,19
+756,Maine,94
+778,District of Columbia,23
+779,Illinois,72
+781,West Virginia,52
+782,Georgia,52
+701,South Dakota,65
+788,North Carolina,98
+790,New Hampshire,92
+791,West Virginia,77
+795,Connecticut,26
+797,New Mexico,50
+793,Idaho,49
+802,West Virginia,80
+804,Virginia,54
+803,Indiana,18
+806,Ohio,24
+807,Colorado,25
+801,Maine,79
+809,Idaho,82
+810,Iowa,59
+811,Arkansas,42
+813,Wisconsin,64
+808,Georgia,59
+783,Vermont,24
+392,Mississippi,98
+814,Massachusetts,44
+816,District of Columbia,86
+812,Florida,31
+109,Nevada,55
+819,Puerto Rico,29
+604,Montana,33
+822,Nevada,60
+823,Vermont,67
+829,Rhode Island,87
+830,Florida,57
+839,Mississippi,40
+826,Puerto Rico,26
+841,New Hampshire,52
+850,West Virginia,42
+857,Maine,72
+860,Maine,19
+863,Guam,79
+866,West Virginia,55
+868,Utah,49
+840,Washington,35
+870,North Carolina,98
+871,Northern Mariana Islands ,29
+875,New Jersey,86
+861,Texas,47
+879,Arkansas,22
+880,Kansas,85
+881,Kansas,66
+885,Nebraska,31
+895,Alabama,84
+898,Idaho,71
+899,Alaska,50
+896,Louisiana,33
+900,South Dakota,38
+903,Mississippi,94
+892,Wyoming,35
+912,South Dakota,69
+568,Colorado,24
+914,Kentucky,24
+916,District of Columbia,44
+91,California,58
+515,Massachusetts,23
+668,District of Columbia,45
+919,North Dakota,83
+921,Idaho,59
+905,Colorado,66
+924,Arizona,49
+925,Alabama,35
+929,Kansas,77
+930,Arizona,40
+932,New York,19
+936,Minnesota,89
+897,Guam,48
+942,South Dakota,35
+928,Michigan,28
+944,Montana,56
+940,Washington,37
+947,Maine,96
+950,New Hampshire,55
+953,Minnesota,35
+956,Oklahoma,79
+957,Iowa,89
+943,Oklahoma,94
+961,Utah,88
+933,Colorado,18
+963,Maryland,53
+968,Illinois,53
+969,Washington,96
+777,South Dakota,64
+891,Washington,55
+972,Hawaii,68
+917,Arkansas,70
+974,Alaska,42
+975,Alabama,56
+976,American Samoa ,78
+977,Connecticut,60
+980,Missouri,91
+981,Ohio,73
+983,Mississippi,40
+987,Hawaii,41
+835,Wyoming,68
+989,Indiana,50
+990,Florida,88
+991,Georgia,27
+992,South Dakota,67
+973,Louisiana,45
+995,Tennessee,96
+996,Georgia,93
+997,Maine,51
+1000,Wisconsin,53
+999,New Jersey,42
+926,Washington,33
+1002,New Jersey,36
+982,Idaho,20
+1007,North Dakota,31
+510,Guam,94
+1008,Florida,23
+1009,Guam,52
+979,Connecticut,36
+1010,South Dakota,69
+1005,Hawaii,87
+1013,Washington,64
+1012,Mississippi,76
+1011,Maryland,23
+642,Guam,87
+1016,Connecticut,23
+1020,Colorado,91
+249,Wyoming,93
+1014,Nevada,40
+887,Utah,66
+978,Virgin Islands,54
+1024,Guam,58
+1025,Utah,20
+1027,Ohio,82
+1028,Michigan,63
+1029,Georgia,77
+1030,California,42
+1032,Missouri,80
+1033,New Mexico,89
+1037,Alaska,56
+1038,Oregon,75
+966,Montana,37
+667,New Jersey,36
+1042,Virgin Islands,75
+1043,South Dakota,56
+1044,Oklahoma,36
+1040,Puerto Rico,79
+954,Massachusetts,30
+1049,Ohio,81
+1052,Missouri,88
+1055,Northern Mariana Islands ,93
+1057,North Dakota,32
+1047,Guam,55
+1063,Mississippi,32
+1065,Guam,50
+1058,Utah,46
+1070,Idaho,24
+1074,Arkansas,84
+1068,Illinois,34
+1023,Arizona,29
+1073,Ohio,86
+1076,Nebraska,71
+1079,Georgia,28
+694,Tennessee,54
+1061,North Carolina,84
+1084,Mississippi,74
+559,Illinois,65
+1046,New Hampshire,39
+1089,Nevada,42
+221,Alabama,49
+1091,Virgin Islands,27
+1003,District of Columbia,45
+422,Colorado,75
+1102,Virginia,19
+1050,Arkansas,46
+1103,Arizona,97
+1104,Northern Mariana Islands ,41
+1107,Virgin Islands,63
+884,District of Columbia,91
+1110,New Jersey,82
+1111,Illinois,69
+1059,Nevada,19
+1116,Kansas,21
+7,Rhode Island,32
+1122,Alaska,83
+1124,Vermont,19
+1126,Wisconsin,53
+1115,Texas,95
+1132,Wyoming,30
+920,Massachusetts,98
+484,Indiana,84
+1137,Colorado,53
+1138,Michigan,67
+1139,New Jersey,83
+1143,New Mexico,31
+1145,Virgin Islands,31
+1144,South Carolina,77
+1135,Minnesota,84
+1148,Missouri,33
+723,Hawaii,36
+1127,Kentucky,22
+1149,Colorado,92
+1150,Utah,27
+690,Mississippi,31
+1109,Rhode Island,67
+1153,Kansas,83
+1096,Puerto Rico,61
+1157,Massachusetts,50
+1160,Kansas,37
+1162,Pennsylvania,51
+1166,Florida,51
+792,Indiana,91
+1168,Kentucky,24
+1112,Michigan,45
+1172,Idaho,81
+1173,New Hampshire,82
+1174,Utah,42
+1175,New York,75
+1176,Oregon,71
+1179,Colorado,93
+1178,West Virginia,69
+1146,Idaho,95
+789,New York,18
+1183,Montana,27
+1184,Virginia,95
+1180,Nevada,19
+1187,Virginia,83
+1118,New Mexico,59
+1188,Alaska,35
+1189,Wyoming,26
+1159,Montana,33
+1193,North Dakota,60
+1164,North Dakota,97
+1197,Northern Mariana Islands ,61
+1196,Guam,43
+1200,Wisconsin,53
+1191,Colorado,27
+1198,Guam,25
+1204,Montana,50
+1195,Idaho,45
+934,District of Columbia,30
+1206,Florida,23
+1208,South Dakota,25
+1209,Vermont,72
+1212,Nebraska,41
+339,Oregon,63
+1147,Oklahoma,40
+1167,South Dakota,74
+1219,Wisconsin,68
+1220,Virgin Islands,80
+1221,Wisconsin,49
+1226,Iowa,75
+909,Delaware,81
+1225,Kentucky,31
+1034,Michigan,59
+1019,Northern Mariana Islands ,19
+1230,South Dakota,98
+1214,Arkansas,51
+638,United States Minor Outlying Islands ,46
+1217,Washington,32
+1232,Iowa,60
+1114,United States Minor Outlying Islands ,74
+1235,Utah,36
+1236,New Hampshire,78
+1237,New Jersey,79
+1238,Arizona,75
+57,Alabama,19
+872,Utah,58
+1211,Missouri,98
+1006,Northern Mariana Islands ,44
+1246,Nebraska,92
+1250,South Carolina,90
+1252,South Carolina,73
+1228,Northern Mariana Islands ,48
+1253,South Carolina,41
+869,Guam,96
+1251,Ohio,75
+1259,Massachusetts,49
+1240,South Carolina,71
+1261,Ohio,85
+1262,Virginia,21
+1263,Wyoming,84
+1265,Idaho,36
+773,Wyoming,77
+1254,Vermont,57
+1276,American Samoa ,35
+1244,Nevada,40
+1283,Wisconsin,49
+1285,California,74
+1286,Hawaii,90
+1234,Missouri,36
+1289,Minnesota,97
+1291,New Hampshire,20
+1290,United States Minor Outlying Islands ,83
+1293,Arkansas,78
+746,Oklahoma,93
+786,Colorado,82
+1298,Wyoming,87
+1125,New York,83
+1302,New Jersey,34
+1304,Alaska,48
+1300,North Carolina,88
+1305,Kansas,83
+1270,Texas,48
+407,Oregon,98
+1306,Virginia,93
+1296,United States Minor Outlying Islands ,61
+1247,Northern Mariana Islands ,33
+1309,New Jersey,69
+1310,North Dakota,67
+1311,Texas,21
+1106,Louisiana,27
+1316,Oregon,43
+1321,Texas,24
+1323,Colorado,34
+1258,Connecticut,94
+1325,Ohio,86
+1326,Virgin Islands,42
+1330,American Samoa ,93
+1335,West Virginia,92
+1334,South Carolina,93
+525,Pennsylvania,59
+1340,Missouri,58
+1343,South Carolina,94
+1346,District of Columbia,91
+1347,Kentucky,59
+1349,Washington,46
+1350,Arkansas,38
+1354,California,60
+1353,Wisconsin,44
+1357,North Dakota,80
+1358,Massachusetts,83
+1083,New York,95
+1361,Missouri,42
+1356,Michigan,91
+1327,Vermont,56
+1362,Virgin Islands,30
+1366,Wisconsin,68
+1365,United States Minor Outlying Islands ,86
+1367,Maine,66
+1368,Utah,29
+1260,American Samoa ,77
+1315,Texas,29
+1374,North Carolina,84
+1131,Idaho,35
+335,South Carolina,78
+1281,Oregon,32
+1041,American Samoa ,20
+1378,Wyoming,52
+1377,Northern Mariana Islands ,44
+1087,Ohio,64
+383,Maryland,50
+1381,Maine,84
+1215,Nevada,86
+1388,Arizona,61
+508,New Mexico,25
+1390,Puerto Rico,55
+1392,Oklahoma,47
+1395,Texas,88
+1394,South Carolina,61
+1400,Rhode Island,59
+1403,West Virginia,80
+1406,Nevada,29
+1408,Nevada,39
+1108,Montana,30
+1409,North Dakota,44
+1411,New Mexico,30
+1412,Michigan,66
+1414,North Carolina,19
+1415,Missouri,50
+1413,United States Minor Outlying Islands ,87
+1420,Colorado,70
+1418,Washington,76
+1423,Georgia,96
+1421,Nebraska,30
+1336,Pennsylvania,68
+1424,New Mexico,28
+1308,Massachusetts,38
+1430,Utah,39
+1431,Kansas,49
+1432,California,61
+1433,Utah,35
+1435,Guam,71
+1437,Puerto Rico,64
+1438,Maine,54
+1352,Alabama,49
+1422,Rhode Island,92
+1402,Michigan,66
+1443,Puerto Rico,45
+1444,Massachusetts,42
+1427,Indiana,33
+1441,Northern Mariana Islands ,63
+1446,Mississippi,37
+1448,District of Columbia,58
+1453,Rhode Island,70
+636,Pennsylvania,27
+1454,Virgin Islands,63
+1455,Maryland,31
+1456,District of Columbia,96
+1459,Colorado,39
+1460,Northern Mariana Islands ,92
+1434,Illinois,27
+1450,West Virginia,49
+1465,New Jersey,91
+1468,Florida,37
+1473,Wyoming,66
+1472,Arizona,61
+1475,Louisiana,59
+1476,Wyoming,84
+1449,Arkansas,50
+1478,Virgin Islands,64
+1482,Minnesota,97
+1488,Minnesota,26
+1417,Hawaii,47
+1489,Vermont,36
+1474,Wyoming,46
+1494,Montana,88
+1495,Indiana,74
+1496,Delaware,19
+1396,Virginia,52
+1497,Delaware,84
+1499,Georgia,97
+1500,Northern Mariana Islands ,40
+971,Maryland,90
+1503,Indiana,70
+1504,Wyoming,60
+355,New Hampshire,62
+1464,Missouri,41
+907,Ohio,18
+1506,Tennessee,25
+1507,Alabama,26
+1509,California,18
+1511,Alabama,23
+1512,Virgin Islands,32
+1508,Guam,34
+1515,Idaho,90
+1519,Arkansas,54
+1493,Maryland,47
+1520,Arkansas,85
+1523,Oregon,23
+1525,Montana,33
+1510,Arizona,52
+1526,Northern Mariana Islands ,58
+1529,Alaska,41
+1528,Virginia,83
+1447,New York,25
+1532,Puerto Rico,78
+1399,Alabama,91
+1534,Oregon,71
+1537,Ohio,27
+1540,Hawaii,27
+1541,Maine,70
+1542,Tennessee,76
+1543,Louisiana,94
+1545,South Carolina,56
+1544,South Carolina,80
+1548,Northern Mariana Islands ,23
+1549,Maryland,75
+1550,Massachusetts,34
+1554,Puerto Rico,54
+1555,Massachusetts,34
+1557,Texas,37
+1551,Missouri,58
+1560,Michigan,61
+1559,Florida,33
+1561,American Samoa ,86
+1547,South Carolina,75
+1558,Puerto Rico,32
+1568,District of Columbia,56
+1117,Delaware,85
+1570,Florida,35
+1572,Northern Mariana Islands ,39
+1571,Kentucky,85
+1518,Washington,43
+1536,Georgia,29
+1580,Hawaii,58
+1562,North Dakota,19
+1581,New Mexico,18
+1578,Alabama,79
+1584,Nevada,34
+1585,North Dakota,61
+1583,West Virginia,39
+1590,Ohio,28
+1565,New Mexico,49
+1594,Montana,60
+1595,Kansas,84
+1596,North Carolina,85
+1597,Maine,27
+1598,Vermont,58
+1600,Puerto Rico,64
+1599,South Carolina,84
+1602,Iowa,73
+1593,Wisconsin,27
+1604,New Hampshire,85
+1606,Delaware,35
+1607,Texas,34
+1608,American Samoa ,24
+1611,Georgia,96
+1614,Minnesota,70
+1618,Pennsylvania,82
+1617,Louisiana,34
+1619,Maryland,43
+1097,Puerto Rico,60
+1620,Virginia,90
+1297,Michigan,73
+1626,New Jersey,29
+1582,Washington,41
+1605,District of Columbia,55
+1612,Nevada,64
+1628,California,31
+1629,Texas,98
+1630,Missouri,35
+1563,Alabama,36
+1634,Tennessee,63
+1616,Colorado,53
+1485,Kentucky,28
+1501,Oregon,48
+959,South Carolina,45
+1638,Indiana,46
+1086,Massachusetts,22
+1641,Alabama,37
+1642,Florida,48
+1645,Montana,94
+1647,Georgia,85
+1648,Tennessee,48
+1564,Iowa,54
+1650,Illinois,34
+1652,Indiana,64
+1661,Maryland,77
+1669,Kansas,39
+1671,Hawaii,98
+1161,Oregon,67
+1672,Indiana,96
+306,Minnesota,61
+1530,Utah,27
+1666,Delaware,94
+1271,Georgia,88
+1680,Oklahoma,45
+1681,Virgin Islands,59
+1664,Tennessee,28
+1682,Washington,81
+1586,West Virginia,68
+1686,Hawaii,68
+1307,Maryland,28
+1631,Vermont,21
+1689,Alaska,58
+1690,South Carolina,82
+1694,Oklahoma,36
+1155,Hawaii,83
+1695,American Samoa ,27
+1696,Arkansas,68
+1698,Vermont,30
+1703,Kansas,47
+1471,Oklahoma,19
+1663,Wisconsin,49
+1704,New Mexico,85
+1705,Iowa,64
+1656,District of Columbia,65
+1710,Guam,33
+1716,New Hampshire,35
+1719,American Samoa ,56
+1657,New York,57
+1722,Oregon,27
+1720,Tennessee,37
+1723,Georgia,22
+1726,Northern Mariana Islands ,94
+1727,Florida,18
+1735,Mississippi,65
+1709,Rhode Island,91
+594,Michigan,44
+1743,Missouri,62
+1749,Kentucky,45
+1734,West Virginia,71
+1751,Delaware,92
+1721,Wyoming,62
+146,Washington,18
+1752,Colorado,50
+1649,Hawaii,75
+1577,Michigan,26
+1753,West Virginia,86
+1756,New Mexico,18
+1757,Oregon,34
+1760,Maryland,24
+1761,Kentucky,91
+1758,Guam,18
+1765,Kentucky,82
+1731,Minnesota,44
+1458,Kansas,64
+1766,Ohio,34
+1701,Massachusetts,93
+1546,Colorado,88
+1763,Tennessee,36
+1771,Guam,91
+815,New Mexico,52
+1783,Massachusetts,26
+1784,Oregon,53
+1331,Connecticut,49
+1774,New Hampshire,78
+1787,Colorado,22
+1790,Arizona,60
+1768,Ohio,43
+1789,Idaho,33
+1788,New Mexico,73
+1744,New Mexico,71
+1796,Illinois,76
+853,Georgia,28
+1514,Illinois,96
+1798,Florida,66
+1801,West Virginia,76
+774,Maryland,80
+1655,Utah,43
+1778,Kansas,37
+1782,Maryland,43
+1725,Iowa,35
+1805,South Dakota,96
+1274,Alaska,73
+1806,Oklahoma,81
+1807,Nebraska,62
+1808,Ohio,29
+1809,Virgin Islands,21
+1810,New York,68
+1811,Delaware,53
+1794,Iowa,67
+1818,Mississippi,86
+1767,Georgia,69
+1820,Arkansas,48
+1740,Mississippi,81
+1821,Puerto Rico,54
+1823,Texas,49
+1826,Maine,45
+1828,Missouri,71
+1832,Georgia,38
+1833,American Samoa ,44
+1835,Virginia,22
+1836,Indiana,52
+1840,Iowa,72
+1843,New Jersey,38
+1845,Wisconsin,30
+918,Utah,33
+1838,Tennessee,82
+1850,North Dakota,22
+1852,Georgia,54
+1846,Alabama,84
+1856,Tennessee,34
+1799,Kentucky,50
+1711,Washington,49
+1860,South Carolina,40
+1847,District of Columbia,82
+1861,Alaska,49
+1264,Nevada,48
+1868,Rhode Island,97
+1824,Alaska,81
+1869,Nebraska,70
+1872,Guam,92
+1873,Delaware,97
+1875,Missouri,85
+1877,California,25
+1717,Guam,52
+1882,Georgia,88
+1883,North Carolina,31
+1884,Michigan,66
+1885,Maine,58
+1854,South Carolina,77
+411,New York,97
+1772,Minnesota,54
+1888,Wisconsin,63
+1889,Ohio,23
+1853,Michigan,53
+1867,Oregon,29
+1886,Mississippi,48
+1895,West Virginia,64
+1592,Kentucky,65
+1866,Mississippi,23
+1890,Kansas,97
+1897,Minnesota,26
+1900,Texas,81
+1902,Rhode Island,48
+1791,West Virginia,80
+1910,Massachusetts,33
+1654,Guam,22
+1912,Virginia,72
+1375,Delaware,87
+1915,Utah,30
+1913,Illinois,24
+1909,Connecticut,51
+1919,Tennessee,33
+1921,Idaho,23
+1922,Kansas,35
+1923,New Mexico,59
+1924,New York,24
+1439,Maine,51
+1926,Alabama,62
+1916,Colorado,65
+1930,Ohio,64
+1933,Florida,25
+1914,Utah,57
+1934,Virgin Islands,63
+1935,Massachusetts,50
+1936,Delaware,43
+1932,South Carolina,32
+1937,North Dakota,84
+1939,Delaware,66
+1942,Alabama,42
+1947,Illinois,26
+1569,Texas,84
+1702,Minnesota,67
+514,Ohio,73
+1941,Montana,60
+1956,Massachusetts,37
+1825,Virginia,73
+1958,Missouri,18
+1962,Illinois,24
+1953,Utah,96
+1965,Colorado,44
+1971,Louisiana,92
+1973,New Hampshire,76
+1974,Maryland,84
+1980,Puerto Rico,20
+1981,Arkansas,86
+1983,Pennsylvania,76
+1989,Nevada,66
+1893,Pennsylvania,25
+1553,Illinois,95
+1991,Massachusetts,60
+1992,Missouri,73
+1129,Washington,81
+1994,Rhode Island,46
+1996,Guam,94
+865,Oklahoma,61
+2007,Hawaii,94
+2008,California,48
+1899,Mississippi,78
+2001,Arizona,98
+2010,Colorado,65
+2015,Utah,80
+2014,Connecticut,93
+2016,Alaska,87
+2019,Kentucky,59
+2020,Wisconsin,27
+2021,Alabama,61
+2018,Nevada,98
+2025,New York,73
+2026,American Samoa ,76
+2028,Puerto Rico,58
+2029,Iowa,25
+2030,Wyoming,22
+1574,Louisiana,18
+2031,Oregon,41
+2032,Maryland,96
+2036,North Carolina,38
+2037,Mississippi,64
+2033,Oklahoma,68
+2035,Nevada,52
+2043,Tennessee,76
+2048,Oklahoma,90
+951,Pennsylvania,40
+1880,Minnesota,97
+2051,Massachusetts,30
+2055,Kentucky,41
+2058,Pennsylvania,72
+2057,Tennessee,81
+1977,Minnesota,93
+1278,Louisiana,86
+2060,Connecticut,20
+2000,Montana,92
+2067,Oregon,53
+2061,Utah,44
+2072,New Jersey,88
+2074,North Dakota,44
+2075,Missouri,51
+2069,Oregon,45
+2079,Oklahoma,78
+2082,Wyoming,92
+2084,Nebraska,90
+1951,Alabama,43
+2085,Oregon,36
+2087,Minnesota,43
+133,North Carolina,63
+2088,Connecticut,84
+2059,North Carolina,92
+2092,Idaho,54
+2095,New Jersey,45
+2096,American Samoa ,44
+2093,Maine,88
+2024,Nevada,48
+2102,Kentucky,84
+2103,Texas,47
+2105,Wyoming,79
+2106,Georgia,38
+2108,Puerto Rico,43
+2100,Texas,90
+2118,Washington,41
+2117,North Dakota,34
+2119,New York,56
+2121,Georgia,66
+2101,Connecticut,19
+2123,Oklahoma,71
+2124,Indiana,38
+2125,Arkansas,95
+780,Delaware,43
+581,New York,70
+2017,Alaska,98
+1341,Nevada,90
+275,Louisiana,58
+1917,Oregon,51
+2136,American Samoa ,45
+1706,Alabama,32
+2112,Connecticut,82
+1834,Texas,27
+2146,Wyoming,50
+2065,Washington,28
+2143,Idaho,91
+2148,Virginia,77
+2154,Hawaii,72
+2151,Nevada,36
+2156,Virginia,53
+2145,Rhode Island,71
+2157,Rhode Island,97
+2159,Nebraska,64
+758,Ohio,59
+2162,Nebraska,19
+1081,Idaho,96
+2164,Maine,47
+2068,Delaware,20
+2174,New Hampshire,29
+2073,Kansas,84
+2176,Illinois,49
+2177,Maine,61
+994,Alaska,94
+1779,Alaska,64
+2180,New York,36
+2181,Virginia,72
+2161,Texas,25
+1940,Maine,85
+2187,Vermont,37
+2188,Hawaii,90
+2185,Texas,18
+2197,Virgin Islands,55
+2202,Nevada,54
+2175,Colorado,38
+2201,Utah,43
+2153,Indiana,71
+2205,Hawaii,22
+2204,New Jersey,88
+2209,Indiana,87
+2210,Utah,93
+2214,Tennessee,87
+2215,Utah,22
+1398,Pennsylvania,82
+2193,South Dakota,54
+2219,Louisiana,27
+676,Indiana,54
+2224,Missouri,73
+2227,Illinois,85
+2228,Indiana,93
+2198,Arkansas,39
+2080,West Virginia,55
+2229,Massachusetts,83
+2230,Alabama,76
+2231,Minnesota,25
+2094,Tennessee,42
+2232,New Mexico,61
+2234,Indiana,94
+1851,New Jersey,92
+2089,New Jersey,22
+2237,Oregon,49
+2223,Missouri,63
+2247,United States Minor Outlying Islands ,54
+2250,Massachusetts,41
+2253,Indiana,81
+2254,Texas,35
+2078,Washington,88
+2255,Kansas,95
+1462,New Mexico,23
+2259,New Mexico,26
+2261,Virginia,64
+2260,Ohio,28
+2233,New York,85
+2267,District of Columbia,80
+2268,District of Columbia,51
+2269,Mississippi,19
+2184,Maryland,81
+2270,Florida,76
+469,Texas,41
+2226,Utah,89
+2275,New Mexico,51
+2276,Maryland,96
+2220,Michigan,43
+2245,Maryland,88
+147,New Hampshire,47
+2277,Rhode Island,93
+1609,California,90
+2278,Tennessee,95
+2279,Utah,51
+2285,Massachusetts,92
+2283,Maryland,81
+2045,New York,86
+2288,Nebraska,32
+2130,Alaska,52
+293,Northern Mariana Islands ,98
+2186,California,70
+2292,Michigan,68
+2291,United States Minor Outlying Islands ,18
+2294,Kentucky,81
+2274,Hawaii,29
+2296,Alaska,72
+2295,Massachusetts,92
+2238,Kansas,25
+3,South Dakota,60
+2300,American Samoa ,20
+2302,Tennessee,88
+1802,Indiana,64
+2304,Oregon,91
+2252,New Mexico,58
+2307,Vermont,95
+2309,Nebraska,94
+2311,New Jersey,92
+952,New Jersey,52
+2313,Alabama,42
+2314,California,77
+2298,Wyoming,82
+2316,North Dakota,62
+2317,Michigan,33
+2321,Minnesota,73
+2322,Texas,32
+2323,Oregon,62
+1927,Kansas,96
+2326,Montana,59
+2182,South Carolina,28
+2329,Rhode Island,49
+946,Virgin Islands,73
+2257,Guam,97
+2331,Oklahoma,58
+2333,Georgia,43
+2334,Pennsylvania,38
+2320,Wisconsin,80
+2335,Vermont,65
+2325,Indiana,42
+2222,Maine,39
+2338,Kansas,44
+2339,New Hampshire,79
+2258,Florida,66
+2341,District of Columbia,23
+2340,Hawaii,92
+2345,Maine,31
+2347,Vermont,65
+2337,Maryland,92
+2351,South Carolina,62
+2348,Puerto Rico,49
+1762,Arkansas,57
+2357,Iowa,57
+2356,Virgin Islands,50
+646,Wyoming,22
+2359,Washington,42
+2361,Montana,86
+2225,Iowa,67
+2218,Arkansas,98
+2370,American Samoa ,53
+2344,Arizona,91
+1463,Guam,69
+2375,Indiana,34
+2374,Nebraska,19
+2377,Florida,95
+2378,Michigan,68
+2373,American Samoa ,57
+2383,Washington,87
+2384,Kansas,83
+2271,West Virginia,91
+2376,Northern Mariana Islands ,87
+2389,Colorado,24
+2391,Nevada,52
+2397,South Carolina,56
+2396,Massachusetts,53
+2399,Tennessee,89
+2398,Indiana,67
+2401,American Samoa ,65
+2404,American Samoa ,39
+1775,Maryland,68
+2406,Illinois,93
+2407,Hawaii,74
+2366,Ohio,75
+2410,Iowa,83
+2412,Virgin Islands,68
+2352,Virgin Islands,96
+2303,Indiana,95
+2272,Nebraska,79
+2415,United States Minor Outlying Islands ,71
+2416,Washington,65
+2319,Michigan,50
+1069,South Carolina,47
+2419,Pennsylvania,21
+2387,Arkansas,28
+2420,Mississippi,63
+2422,Massachusetts,87
+2423,Northern Mariana Islands ,23
+2424,Missouri,88
+2427,Louisiana,50
+2428,Oklahoma,90
+2430,Kentucky,85
+2414,Michigan,38
+2429,Montana,78
+2431,Vermont,96
+1979,Wyoming,97
+2436,Puerto Rico,66
+2409,Oklahoma,38
+472,Minnesota,70
+2439,California,29
+2438,Kentucky,88
+2282,Delaware,32
+2440,Iowa,46
+2388,Indiana,86
+2446,Maine,48
+2452,Utah,55
+2456,Missouri,88
+2454,Illinois,54
+2449,Maine,30
+2457,Rhode Island,21
+2459,Idaho,70
+2464,Wyoming,64
+1764,Alabama,34
+2466,Rhode Island,79
+1429,Pennsylvania,79
+1060,North Dakota,32
+1907,Florida,89
+2470,Ohio,19
+2471,Michigan,94
+818,Indiana,42
+2474,Missouri,32
+620,Guam,96
+2478,Tennessee,88
+2477,Missouri,77
+2469,District of Columbia,79
+2039,California,94
+2481,Guam,41
+2483,Maryland,80
+2485,Oregon,78
+2487,Colorado,49
+2489,Georgia,93
+380,Pennsylvania,90
+1268,Delaware,61
+2491,Colorado,41
+2492,Minnesota,75
+2473,American Samoa ,26
+182,Guam,33
+2497,New Mexico,50
+2498,Oklahoma,46
+2381,Indiana,84
+2500,Kansas,46
+2501,New Hampshire,42
+2502,Louisiana,20
+2503,Maine,69
+2504,Massachusetts,18
+2493,South Dakota,26
+2508,Ohio,46
+2506,Louisiana,59
+2369,Connecticut,32
+2451,New Jersey,50
+1610,Minnesota,38
+2512,California,54
+2513,Oregon,28
+2455,Missouri,39
+2516,Nevada,41
+2178,Indiana,32
+2517,New Mexico,27
+2518,Oklahoma,34
+2519,Delaware,62
+2522,New Mexico,53
+2524,Arkansas,30
+1968,Virginia,57
+2385,Utah,70
+2365,Puerto Rico,40
+2525,Pennsylvania,92
+2527,Nevada,67
+2528,Wisconsin,77
+2531,Virgin Islands,52
+2532,Alabama,18
+2534,Arkansas,26
+2530,Arizona,44
+2536,Nevada,61
+2537,Alaska,71
+2540,Vermont,24
+2539,Massachusetts,48
+2538,United States Minor Outlying Islands ,83
+2542,Missouri,30
+2543,Georgia,44
+1903,Northern Mariana Islands ,91
+2545,Montana,36
+2549,Nebraska,32
+2552,Tennessee,53
+2553,Minnesota,67
+2555,West Virginia,53
+2558,Massachusetts,45
+2548,Virgin Islands,29
+2565,District of Columbia,42
+2568,West Virginia,57
+2546,Vermont,26
+2569,West Virginia,46
+2571,Louisiana,73
+2573,American Samoa ,44
+1713,Nevada,52
+2575,Michigan,52
+2577,Indiana,23
+1804,North Carolina,21
+2583,Virgin Islands,58
+2587,New Mexico,85
+2589,New Mexico,31
+2597,Indiana,67
+2598,West Virginia,74
+2591,Florida,75
+2593,Tennessee,35
+2128,Massachusetts,86
+2601,Alabama,20
+2600,Illinois,69
+2604,Rhode Island,44
+2602,Northern Mariana Islands ,56
+2476,Arkansas,98
+2606,Wyoming,40
+1678,Montana,96
+2172,Wyoming,56
+2585,Michigan,77
+2603,Delaware,53
+2070,Georgia,21
+2579,Iowa,65
+17,New Jersey,65
+2611,West Virginia,79
+2612,Nevada,37
+2614,Oregon,93
+2615,Hawaii,83
+2613,Alabama,24
+2617,Georgia,75
+2038,United States Minor Outlying Islands ,52
+2618,Michigan,51
+2599,United States Minor Outlying Islands ,57
+2551,South Carolina,93
+2616,Maine,19
+2622,Idaho,90
+2619,Puerto Rico,71
+2624,Alabama,30
+2626,Wisconsin,28
+2628,Oklahoma,60
+2557,Utah,69
+2630,Wisconsin,98
+2632,New Hampshire,53
+2605,Alabama,68
+2633,Mississippi,26
+2576,Puerto Rico,98
+2636,Oregon,59
+2637,New Hampshire,85
+2638,California,63
+2639,District of Columbia,84
+2641,Connecticut,98
+2643,American Samoa ,95
+2644,Wisconsin,64
+2046,Virginia,81
+2645,Rhode Island,92
+2647,Guam,69
+2650,New York,33
+2652,Georgia,78
+2648,Maryland,95
+2654,Nebraska,41
+2657,Missouri,21
+2662,Guam,31
+2663,Maine,58
+2667,North Dakota,19
+2670,Colorado,88
+2671,New York,77
+2661,Wyoming,87
+2674,Rhode Island,73
+2679,Arkansas,25
+2665,Arkansas,25
+2289,Connecticut,29
+2688,Maine,97
+2689,Missouri,79
+2691,Northern Mariana Islands ,19
+2692,Massachusetts,79
+2701,Idaho,22
+1892,North Carolina,76
+2681,Nevada,71
+2705,Vermont,38
+2704,North Carolina,34
+2702,Puerto Rico,98
+2703,Rhode Island,95
+2697,New York,56
+1876,Texas,88
+2707,United States Minor Outlying Islands ,68
+2696,Alaska,65
+2710,Utah,21
+2687,South Carolina,68
+2714,Indiana,90
+2699,North Dakota,33
+2715,Utah,59
+2713,Illinois,41
+2716,Alabama,82
+2717,Nebraska,57
+1092,Arkansas,64
+2721,Vermont,40
+2646,United States Minor Outlying Islands ,26
+2724,California,60
+2725,South Carolina,57
+2367,Puerto Rico,73
+2726,New Jersey,84
+2727,Iowa,75
+2728,Hawaii,45
+1210,Iowa,36
+2732,Kentucky,72
+2734,Michigan,53
+614,Texas,19
+2736,North Dakota,48
+2737,Hawaii,83
+1123,New Mexico,68
+2740,Kentucky,91
+2738,Maryland,95
+2730,Connecticut,19
+2675,Missouri,45
+2743,Vermont,83
+2747,Illinois,92
+2746,South Dakota,92
+2748,Oregon,85
+2749,Guam,83
+2751,South Dakota,78
+2752,New York,42
+2754,New Hampshire,23
+2756,Puerto Rico,22
+1095,New Jersey,83
+1627,Missouri,47
+2758,Pennsylvania,63
+2759,Virginia,96
+2761,South Carolina,22
+2762,Louisiana,90
+2764,Iowa,32
+2766,Iowa,19
+2769,Ohio,25
+935,Utah,76
+2775,Alaska,56
+2778,Oregon,24
+2281,Colorado,82
+2782,Oregon,59
+2767,California,92
+2783,District of Columbia,65
+2450,Mississippi,68
+2788,Oklahoma,70
+2790,American Samoa ,59
+2793,California,90
+2787,South Carolina,64
+2794,Montana,43
+2796,Maryland,50
+2800,Alabama,55
+2802,North Carolina,32
+2803,Arkansas,35
+2804,Colorado,54
+2805,Montana,72
+2811,South Carolina,70
+2216,Colorado,37
+2814,American Samoa ,19
+2819,Delaware,44
+2785,California,89
+2817,Maryland,22
+1990,Vermont,56
+2808,New Mexico,27
+2823,Northern Mariana Islands ,92
+1483,North Carolina,65
+2797,New Hampshire,87
+2825,Michigan,22
+2827,Illinois,69
+2829,Oregon,84
+2810,Washington,30
+2834,Michigan,33
+2815,Virgin Islands,66
+2835,Indiana,79
+2816,United States Minor Outlying Islands ,92
+2820,Wyoming,78
+2837,Alaska,50
+2839,United States Minor Outlying Islands ,27
+2831,Oregon,60
+2843,Wisconsin,76
+2844,Missouri,47
+2458,District of Columbia,30
+2547,United States Minor Outlying Islands ,98
+2847,Oregon,79
+2848,California,20
+2852,New Jersey,23
+2683,Indiana,83
+1741,Pennsylvania,97
+2854,Arizona,34
+2860,Washington,72
+2862,Indiana,83
+649,Virginia,51
+2129,Oklahoma,27
+2009,South Carolina,37
+2830,Tennessee,89
+1461,United States Minor Outlying Islands ,32
+2869,Nebraska,42
+2875,Wyoming,59
+2876,Pennsylvania,83
+743,United States Minor Outlying Islands ,18
+2709,Ohio,30
+2879,Vermont,98
+2859,New Mexico,74
+2853,Rhode Island,39
+2076,New Mexico,96
+2882,Illinois,77
+2884,Maine,68
+2770,American Samoa ,64
+2886,Delaware,18
+2889,Alaska,93
+2890,Colorado,89
+1871,Michigan,97
+2893,Arkansas,96
+2888,West Virginia,58
+2895,New Jersey,43
+2899,West Virginia,53
+2903,Maine,53
+2870,Maryland,63
+2907,Oregon,43
+2909,Virgin Islands,22
+2910,Tennessee,90
+2911,South Dakota,46
+2824,New Hampshire,95
+2868,Georgia,83
+2912,West Virginia,70
+2913,North Carolina,84
+2905,New York,70
+1077,Nebraska,71
+1948,New Hampshire,94
+2914,American Samoa ,33
+2915,Northern Mariana Islands ,80
+2916,Arkansas,23
+2902,Alabama,94
+2919,New Hampshire,25
+2922,Kansas,33
+2925,Maryland,47
+2768,Michigan,43
+2933,Alabama,97
+2934,South Carolina,18
+2937,Mississippi,81
+2858,California,26
+2634,Ohio,78
+2944,Minnesota,43
+2948,Pennsylvania,94
+2760,New Mexico,20
+2951,Utah,55
+2952,Pennsylvania,18
+2954,Colorado,85
+2955,United States Minor Outlying Islands ,67
+2953,United States Minor Outlying Islands ,20
+2957,Illinois,49
+2931,Indiana,90
+2938,Guam,35
+848,South Dakota,94
+2962,American Samoa ,59
+2928,Massachusetts,48
+2963,Tennessee,56
+2965,Washington,74
+2967,Nebraska,44
+2969,South Carolina,87
+2111,Texas,94
+2970,American Samoa ,86
+2437,Hawaii,75
+2978,Delaware,18
+476,District of Columbia,85
+2980,Louisiana,90
+2981,United States Minor Outlying Islands ,77
+2983,South Dakota,77
+120,South Dakota,98
+2985,South Carolina,87
+2966,California,23
+2988,Minnesota,29
+2990,Ohio,20
+2992,Michigan,37
+1819,Northern Mariana Islands ,84
+2995,Wyoming,53
+2996,Illinois,58
+2998,West Virginia,46
+3000,United States Minor Outlying Islands ,71
+2240,United States Minor Outlying Islands ,58
+3004,Maryland,85
+3001,Minnesota,87
+913,Connecticut,53
+3006,Kansas,91
+3012,Guam,19
+2086,Florida,38
+3014,Montana,43
+3015,Rhode Island,84
+2927,Kansas,22
+728,West Virginia,33
+3017,Guam,92
+3011,Guam,78
+2904,Texas,20
+3023,Montana,25
+3024,Idaho,52
+3005,Northern Mariana Islands ,76
+3027,Michigan,83
+3028,Georgia,28
+3002,Northern Mariana Islands ,82
+2939,Northern Mariana Islands ,57
+3022,Virginia,78
+3026,Illinois,75
+3035,Arizona,69
+1481,Maryland,55
+3038,Arizona,31
+3042,Vermont,63
+3043,District of Columbia,89
+2685,Alaska,73
+1644,Texas,22
+3047,South Carolina,73
+3048,Vermont,44
+3049,Connecticut,81
+3051,New Mexico,91
+3044,Arizona,21
+3052,Minnesota,47
+3053,West Virginia,37
+3054,Wisconsin,70
+3055,New York,82
+2763,Michigan,69
+828,South Dakota,37
+3061,Alaska,60
+3064,Arizona,74
+3067,Pennsylvania,69
+3068,Virgin Islands,79
+3069,Kansas,29
+459,North Carolina,52
+3046,Colorado,49
+3074,Ohio,19
+3076,Arkansas,75
+3075,North Dakota,49
+3056,American Samoa ,54
+2445,Virginia,86
+3081,Massachusetts,31
+3060,West Virginia,62
+3082,West Virginia,97
+2693,Hawaii,22
+3084,Vermont,86
+2929,California,20
+3029,Arkansas,58
+3085,Alaska,40
+3088,Wyoming,46
+3092,Tennessee,88
+3091,Alaska,73
+1777,Hawaii,74
+1539,Illinois,37
+2809,Minnesota,95
+2940,Vermont,52
+3079,Minnesota,68
+3093,Rhode Island,30
+3087,Pennsylvania,33
+3094,Massachusetts,57
+3098,New Mexico,89
+2510,Tennessee,81
+3100,Michigan,94
+2908,Wisconsin,45
+3101,Wyoming,73
+3103,Connecticut,57
+3105,Washington,74
+2777,Virginia,40
+3106,Georgia,30
+2974,Tennessee,36
+2976,Texas,93
+3107,Guam,28
+3108,Washington,60
+3110,Minnesota,73
+3109,Northern Mariana Islands ,60
+3113,Vermont,43
+3115,Rhode Island,40
+3117,Delaware,40
+290,Washington,92
+491,United States Minor Outlying Islands ,49
+3124,Vermont,54
+3125,Delaware,80
+3129,Maryland,41
+523,Wyoming,18
+3086,New Mexico,35
+3123,Montana,44
+3116,American Samoa ,77
+3132,New Hampshire,22
+3133,Puerto Rico,32
+3057,Iowa,48
+3136,Ohio,79
+3137,New Jersey,83
+3138,Guam,97
+571,North Carolina,65
+2380,Guam,57
+3141,New Hampshire,33
+3147,Wyoming,37
+3148,Alaska,61
+2932,Utah,69
+3041,Connecticut,78
+2850,New Jersey,24
+2284,Arkansas,93
+3158,New Hampshire,92
+3066,Michigan,83
+2262,Michigan,59
+3161,Montana,92
+3102,Texas,49
+3157,Arizona,29
+3164,Alabama,45
+3165,Pennsylvania,69
+3151,New Mexico,87
+3168,North Carolina,70
+1659,Tennessee,68
+3170,Ohio,94
+3130,Maryland,92
+3171,Pennsylvania,19
+3174,Virginia,93
+3175,Virgin Islands,51
+3167,Nebraska,53
+3179,Kentucky,49
+3180,Alaska,74
+3181,American Samoa ,36
+3185,United States Minor Outlying Islands ,32
+3187,District of Columbia,50
+3190,Arkansas,85
+3186,Michigan,31
+3191,Idaho,45
+3192,New Mexico,54
+3194,Mississippi,69
+3193,Arizona,43
+3097,Texas,59
+2572,New Jersey,21
+3184,Connecticut,58
+3195,Kansas,19
+3198,Virginia,49
+3203,Hawaii,89
+3204,Michigan,82
+2863,Texas,55
+3208,Illinois,98
+3213,Tennessee,23
+3021,Virginia,29
+3214,Nebraska,61
+3216,Utah,30
+3217,Guam,88
+3206,Nebraska,48
+3218,New Mexico,85
+3220,Minnesota,36
+3221,Connecticut,60
+3227,Pennsylvania,64
+2920,Colorado,50
+3228,Colorado,33
+3231,Oregon,83
+3232,Indiana,52
+3233,Virgin Islands,19
+3080,Michigan,56
+3239,Connecticut,79
+3229,Idaho,33
+3242,New Hampshire,85
+3243,Virgin Islands,71
+3246,Delaware,41
+3245,Colorado,51
+3209,Idaho,44
+3250,Colorado,42
+3251,New Hampshire,50
+1294,Georgia,94
+3253,Michigan,89
+3254,United States Minor Outlying Islands ,50
+3256,Massachusetts,63
+3163,Minnesota,83
+3255,Florida,64
+3257,South Dakota,88
+3252,Georgia,82
+3258,Missouri,23
+3260,Tennessee,45
+3259,Virgin Islands,85
+2789,West Virginia,45
+3261,Arizona,98
+3265,Connecticut,53
+3207,South Carolina,94
+3263,New York,25
+3269,Puerto Rico,63
+2878,New Mexico,48
+3273,Wisconsin,58
+3275,Georgia,41
+3276,Maryland,29
+3262,Missouri,63
+3278,Florida,90
+3280,New Mexico,88
+1248,Maine,37
+3270,South Dakota,67
+3283,Florida,45
+3272,Wyoming,41
+3288,Oklahoma,98
+3289,Rhode Island,42
+2560,American Samoa ,74
+1954,South Carolina,67
+1878,California,55
+3290,United States Minor Outlying Islands ,70
+3293,Virgin Islands,42
+3295,Tennessee,77
+3298,United States Minor Outlying Islands ,89
+3299,Maine,76
+2942,Colorado,87
+3301,Minnesota,51
+3292,Louisiana,50
+3302,Guam,85
+3304,North Dakota,62
+3306,Oklahoma,83
+3307,Wyoming,44
+1322,Hawaii,36
+3308,Illinois,46
+3309,Nebraska,38
+3310,New Jersey,56
+3311,Louisiana,85
+3277,Montana,76
+3313,Wisconsin,94
+3316,Vermont,61
+2684,New Mexico,25
+3318,Wisconsin,65
+3325,Minnesota,49
+1906,Hawaii,21
+3319,Maine,93
+3321,Illinois,18
+3327,American Samoa ,28
+3329,Colorado,58
+3328,Washington,84
+3330,Washington,19
+3300,Kansas,21
+295,Illinois,63
+3332,Pennsylvania,64
+3176,Hawaii,83
+3335,American Samoa ,53
+3337,Maine,37
+1113,Guam,25
+3338,South Dakota,93
+2034,Wyoming,91
+3331,Kentucky,35
+3341,Florida,89
+3296,Tennessee,38
+3345,Connecticut,26
+3346,Maryland,91
+3342,Wisconsin,73
+2355,New Mexico,58
+3347,West Virginia,84
+3351,Pennsylvania,63
+2873,Indiana,91
+3353,Michigan,78
+3354,Illinois,33
+3352,District of Columbia,26
+397,Virginia,71
+3356,Mississippi,28
+3358,South Carolina,96
+2680,Nevada,80
+3360,West Virginia,90
+3177,Georgia,32
+3363,New Jersey,19
+3365,Wyoming,67
+3367,Arizona,34
+3368,Pennsylvania,29
+3369,Connecticut,82
+3371,Indiana,34
+3374,Nevada,96
+3375,Rhode Island,32
+3372,Utah,28
+3377,Pennsylvania,44
+837,Nebraska,37
+3320,Wyoming,35
+3385,Maine,86
+3386,Maine,25
+3389,Alaska,49
+2448,New York,23
+3392,Oklahoma,93
+3393,Florida,81
+3394,United States Minor Outlying Islands ,76
+3383,South Dakota,72
+3384,Vermont,42
+2149,Oregon,63
+3401,Utah,81
+3397,Georgia,70
+3391,Colorado,40
+3380,Maryland,38
+2371,Connecticut,76
+3291,Colorado,43
+2139,Puerto Rico,35
+3403,Indiana,88
+2462,Indiana,85
+3407,New Hampshire,77
+3409,Alabama,75
+3410,West Virginia,90
+3411,California,52
+3412,North Dakota,76
+3406,Alabama,65
+3413,Illinois,75
+3126,Arkansas,58
+3364,Minnesota,93
+2460,Kentucky,91
+3421,Alaska,22
+1715,United States Minor Outlying Islands ,67
+3424,District of Columbia,90
+3425,New Hampshire,82
+3423,Oregon,47
+3420,California,71
+3428,United States Minor Outlying Islands ,76
+3430,Delaware,39
+3359,Ohio,67
+3433,Washington,59
+3436,District of Columbia,79
+3444,North Dakota,48
+3434,Michigan,55
+3427,Alaska,31
+3447,Wisconsin,78
+3448,Northern Mariana Islands ,55
+3451,North Dakota,63
+3455,Iowa,69
+1018,Idaho,36
+3458,Rhode Island,51
+3326,Massachusetts,87
+3462,Rhode Island,32
+3461,Maryland,38
+3463,Nebraska,60
+3465,Wisconsin,87
+3453,Rhode Island,88
+3466,Nevada,20
+703,Northern Mariana Islands ,42
+3426,Kentucky,92
+3468,Tennessee,30
+3470,New Hampshire,20
+3471,California,59
+3472,Ohio,37
+3474,Kentucky,40
+3475,Maine,87
+3476,Georgia,94
+3478,West Virginia,94
+3449,American Samoa ,37
+3480,New Hampshire,56
+3479,Virgin Islands,48
+3482,California,71
+3484,Oregon,26
+3483,Vermont,50
+3485,Pennsylvania,31
+3486,Minnesota,21
+2122,Wyoming,63
+1328,Vermont,63
+3469,New Hampshire,54
+2672,Pennsylvania,34
+3490,Rhode Island,68
+3492,New Hampshire,24
+2961,Puerto Rico,46
+3493,Kentucky,55
+3099,Tennessee,67
+79,New York,49
+3503,American Samoa ,50
+3504,Arizona,33
+3499,Montana,67
+3506,Northern Mariana Islands ,25
+1205,Nevada,75
+3508,Missouri,76
+3507,Delaware,61
+1857,South Carolina,48
+3495,West Virginia,34
+3509,Guam,38
+3510,Arkansas,26
+3512,Colorado,46
+3514,Louisiana,63
+3517,North Dakota,21
+3519,Alabama,46
+3522,Nebraska,53
+3525,Connecticut,76
+3530,American Samoa ,24
+3532,Pennsylvania,91
+3535,Oklahoma,61
+3536,Delaware,38
+3539,West Virginia,49
+3542,Indiana,89
+3543,Alaska,70
+3545,South Carolina,67
+3546,South Carolina,67
+3145,Hawaii,58
+3544,Ohio,97
+3554,California,26
+3555,Arizona,36
+3398,Oklahoma,35
+3557,Northern Mariana Islands ,68
+3558,Indiana,86
+3446,Louisiana,59
+3563,Maryland,19
+3422,Oregon,38
+1470,Massachusetts,65
+3566,United States Minor Outlying Islands ,41
+3567,Puerto Rico,30
+3568,New Mexico,70
+3569,Minnesota,77
+3571,Michigan,62
+3572,Delaware,50
+3573,New Hampshire,85
+3574,American Samoa ,91
+3237,North Dakota,22
+3169,Utah,28
+2586,Oklahoma,97
+3578,Wyoming,88
+3579,Nebraska,81
+3526,Oklahoma,57
+3576,Maine,38
+3582,Utah,97
+3395,Rhode Island,70
+3585,Tennessee,88
+3581,Vermont,80
+3477,Nevada,51
+3591,Illinois,29
+3592,Mississippi,48
+796,Georgia,86
+3593,Hawaii,29
+3583,Maine,31
+3521,Michigan,40
+2792,Virgin Islands,89
+3598,Wyoming,34
+2042,New Jersey,21
+3599,Massachusetts,98
+3597,Northern Mariana Islands ,71
+3601,Rhode Island,55
+3595,New York,80
+3603,Wisconsin,39
+3605,Nebraska,32
+3606,Alaska,63
+1745,Northern Mariana Islands ,91
+3610,South Carolina,39
+3613,Connecticut,55
+3614,Kansas,33
+3615,Texas,65
+2620,Texas,40
+3524,Illinois,83
+3617,Illinois,28
+3619,Nebraska,70
+3620,Arizona,40
+1736,New Mexico,70
+3623,Ohio,67
+3594,American Samoa ,78
+3624,Oregon,81
+3625,North Dakota,32
+3626,Alaska,60
+3628,North Carolina,42
+859,Guam,47
+3629,Washington,69
+3630,Virgin Islands,65
+3631,Colorado,28
+2554,Connecticut,68
+3636,New Jersey,68
+3638,New Hampshire,34
+3639,Illinois,37
+3640,Alabama,68
+3641,Florida,50
+1964,Georgia,23
+3549,Colorado,33
+2649,Massachusetts,46
+3647,Puerto Rico,23
+3650,Texas,92
+3008,Kansas,71
+3655,Delaware,23
+3390,West Virginia,50
+3656,Wyoming,30
+3657,Washington,46
+3658,California,61
+3659,Michigan,53
+3661,Tennessee,26
+3662,Oklahoma,62
+3646,Massachusetts,34
+3635,Puerto Rico,55
+3665,Tennessee,76
+3667,Arizona,98
+3666,Idaho,97
+3671,Ohio,65
+3634,District of Columbia,92
+3672,American Samoa ,39
+3674,Indiana,79
+3679,Nevada,36
+2971,Missouri,84
+3682,Puerto Rico,72
+3381,Maryland,96
+3684,District of Columbia,97
+3668,New York,58
+3688,Illinois,78
+3533,Wisconsin,48
+3692,Kentucky,23
+3693,Kansas,53
+1822,Mississippi,55
+3695,Idaho,85
+3699,North Dakota,58
+3575,Colorado,19
+3704,Wisconsin,97
+1053,Alabama,89
+3649,American Samoa ,18
+3705,Florida,96
+3707,California,46
+3708,Oklahoma,60
+3709,Massachusetts,94
+3711,Arizona,63
+3644,Indiana,88
+3713,Kansas,66
+139,North Dakota,44
+3716,South Carolina,91
+3340,Vermont,95
+3718,Louisiana,31
+3719,Delaware,59
+3722,Vermont,38
+3724,Ohio,29
+3723,New Jersey,47
+3726,Guam,64
+1579,Arizona,31
+3697,North Dakota,73
+3730,South Carolina,36
+2022,Nevada,42
+3731,Tennessee,38
+3732,South Carolina,37
+3721,Arkansas,29
+3687,Colorado,53
+3735,Virgin Islands,67
+3565,Louisiana,88
+3741,Northern Mariana Islands ,54
+3696,Oregon,40
+3743,Utah,69
+3541,Georgia,41
+3745,Oklahoma,89
+3746,West Virginia,73
+3717,Missouri,58
+3212,Oregon,89
+3747,Maryland,74
+3752,Northern Mariana Islands ,87
+3749,Connecticut,75
+3758,Iowa,73
+3761,Indiana,37
+1266,District of Columbia,20
+3762,Arkansas,30
+3754,Maryland,23
+3763,Delaware,56
+3748,Kentucky,66
+3725,Florida,39
+3765,Iowa,58
+3767,New Mexico,56
+3768,Virgin Islands,98
+3766,Illinois,93
+3771,Oklahoma,97
+3736,New Hampshire,79
+3772,Virginia,68
+3774,Connecticut,59
+3775,Puerto Rico,41
+3408,North Carolina,28
+3779,Arkansas,83
+3783,Tennessee,73
+3686,American Samoa ,93
+3784,Mississippi,65
+3786,West Virginia,58
+3223,Indiana,55
+3792,North Dakota,50
+3791,Texas,35
+3793,Alaska,96
+3794,Oregon,24
+3797,South Carolina,76
+3798,Virgin Islands,97
+3799,Montana,37
+3795,Northern Mariana Islands ,62
+3802,Ohio,69
+2063,Montana,86
+3805,Northern Mariana Islands ,92
+3806,Alabama,96
+3807,New Hampshire,74
+3812,Iowa,47
+3815,Arkansas,57
+3816,Idaho,74
+3821,Ohio,34
+3820,West Virginia,33
+3824,Colorado,32
+3817,Virginia,54
+3825,Arizona,23
+3829,Georgia,18
+3830,Arizona,86
+3678,Wisconsin,64
+3835,Oregon,48
+3826,New York,51
+3839,Texas,37
+3840,Tennessee,43
+3841,Colorado,71
+3842,South Carolina,34
+711,New Jersey,47
+3845,Colorado,59
+3846,Arkansas,36
+3847,Montana,73
+3849,Arkansas,18
+3848,Nevada,33
+3844,Massachusetts,65
+3596,Tennessee,90
+2846,Virgin Islands,36
+3853,Northern Mariana Islands ,91
+3857,Iowa,23
+3858,North Dakota,82
+2832,District of Columbia,78
+3828,Puerto Rico,62
+3855,Michigan,52
+3856,Pennsylvania,97
+4093,Puerto Rico,31
+3870,Utah,63
+3872,Kentucky,73
+3875,Nevada,51
+3851,Massachusetts,27
+3877,Arizona,75
+3882,Tennessee,71
+3881,Delaware,46
+3884,Colorado,23
+3889,Nevada,21
+3892,New Mexico,38
+3891,Vermont,50
+3895,Northern Mariana Islands ,31
+3878,United States Minor Outlying Islands ,25
+3890,Minnesota,29
+3896,Idaho,41
+3898,West Virginia,90
+3888,Puerto Rico,58
+3901,Arkansas,28
+3903,Guam,69
+3904,New Jersey,57
+3906,California,45
+328,Virgin Islands,57
+3908,Minnesota,24
+3450,Kansas,24
+3909,Virginia,92
+3912,Vermont,53
+3915,Nevada,97
+3916,United States Minor Outlying Islands ,22
+3918,Michigan,35
+3921,South Carolina,68
+3922,Kentucky,94
+3925,Utah,34
+3860,Wisconsin,20
+1829,Georgia,48
+3929,North Carolina,26
+3868,Wisconsin,28
+3935,Mississippi,54
+2733,South Carolina,33
+3938,Idaho,58
+3885,New York,81
+3937,Arkansas,69
+3871,District of Columbia,74
+3940,West Virginia,94
+3926,Iowa,31
+3738,Virgin Islands,92
+3942,North Dakota,39
+3943,American Samoa ,69
+3944,Illinois,43
+3947,California,46
+3948,Maryland,26
+3949,South Carolina,53
+3178,New Jersey,53
+3951,Massachusetts,23
+3952,Washington,36
+3953,Illinois,34
+2418,Connecticut,35
+3387,Connecticut,28
+3402,Nevada,75
+3955,Iowa,39
+3958,Delaware,51
+3959,Minnesota,72
+3961,Guam,21
+3703,Michigan,94
+1522,Missouri,49
+3964,Montana,84
+1218,Vermont,87
+3966,Colorado,29
+3920,West Virginia,35
+3788,Connecticut,54
+3960,Florida,91
+3970,Maryland,87
+314,Delaware,55
+3977,Massachusetts,84
+3963,Iowa,82
+2711,District of Columbia,19
+2301,Kansas,34
+3975,Wyoming,30
+3986,Oregon,77
+3987,Nebraska,80
+3240,Pennsylvania,21
+3989,Georgia,48
+3990,Alabama,25
+82,South Dakota,77
+3995,District of Columbia,34
+3997,Alabama,60
+3969,Indiana,31
+3063,New York,66
+3996,Wyoming,48
+3988,Louisiana,66
+4004,Maryland,22
+4007,Montana,95
+4008,Delaware,59
+3999,Alabama,88
+3981,Hawaii,36
+4003,Missouri,72
+4009,Kansas,24
+4013,Nebraska,92
+4012,Kansas,85
+4014,California,90
+4000,Utah,85
+1724,Louisiana,28
+4017,Colorado,82
+855,New York,46
+4024,Kentucky,59
+3077,Puerto Rico,77
+3756,Virginia,71
+4028,Maryland,91
+4029,Nevada,23
+3811,Guam,57
+4033,Mississippi,31
+4036,Alaska,47
+4037,Virgin Islands,91
+4038,Colorado,19
+1452,Minnesota,39
+4041,Ohio,78
+4045,Kansas,47
+4046,Puerto Rico,97
+4047,California,62
+2642,California,61
+4051,Wisconsin,78
+2467,Washington,87
+4057,Tennessee,25
+4059,Utah,52
+2584,New Mexico,86
+4022,Alaska,23
+4061,Oklahoma,52
+4050,Alabama,39
+4066,Wisconsin,73
+4055,Massachusetts,75
+4067,Pennsylvania,49
+4070,Alabama,55
+4049,Washington,58
+3956,Missouri,45
+4072,American Samoa ,80
+4074,Nebraska,64
+4077,Ohio,49
+4078,Virgin Islands,50
+4076,Pennsylvania,96
+4080,West Virginia,98
+4082,Montana,79
+4083,Northern Mariana Islands ,28
+4085,Louisiana,62
+4087,Virginia,36
+4089,Vermont,81
+4058,Vermont,89
+4090,Florida,61
+733,Virginia,96
+2475,Texas,42
+4092,Rhode Island,40
+3737,Utah,58
+4094,Illinois,84
+4097,Kansas,37
+4098,Hawaii,69
+4100,Hawaii,90
+4060,Wisconsin,25
+2050,Mississippi,75
+4103,United States Minor Outlying Islands ,80
+4104,United States Minor Outlying Islands ,52
+4105,Wisconsin,73
+4108,Colorado,51
+3464,Tennessee,82
+4110,Idaho,82
+3769,Hawaii,91
+4114,Oregon,47
+4117,South Carolina,75
+4063,Minnesota,78
+3777,Kentucky,79
+3982,Nevada,56
+4120,Idaho,67
+4121,Wisconsin,83
+4125,Tennessee,24
+4126,Wyoming,60
+3303,United States Minor Outlying Islands ,18
+4002,Vermont,31
+4131,Ohio,64
+1538,District of Columbia,36
+4056,Minnesota,92
+4124,Virginia,61
+4133,Montana,84
+4132,Wyoming,84
+4138,Virgin Islands,49
+4140,Delaware,77
+3838,North Carolina,25
+4141,Alaska,70
+3070,Illinois,66
+4145,Wisconsin,25
+2856,Florida,70
+4147,Georgia,85
+4148,District of Columbia,92
+4149,Michigan,23
+1062,Guam,91
+3972,Utah,61
+2244,North Dakota,21
+3139,Hawaii,30
+4154,Missouri,37
+4159,Connecticut,63
+4160,Nebraska,61
+3286,Montana,73
+3431,Maine,84
+4164,New Hampshire,97
+4167,West Virginia,32
+4171,Virginia,72
+4176,Nevada,88
+4178,North Carolina,44
+4179,Hawaii,40
+4174,Utah,83
+4158,Pennsylvania,69
+4180,Vermont,68
+4182,Virginia,75
+1466,Puerto Rico,47
+4185,Wyoming,41
+4188,Puerto Rico,79
+2655,Kansas,36
+4115,Massachusetts,38
+4190,United States Minor Outlying Islands ,55
+4191,Wyoming,73
+4027,Wisconsin,70
+3683,Arizona,91
+4194,Arizona,41
+4196,Minnesota,50
+4199,Missouri,69
+4200,Northern Mariana Islands ,78
+4193,Michigan,86
+4202,Oklahoma,71
+4204,Colorado,77
+4184,Washington,28
+4040,Illinois,94
+4207,Michigan,81
+4208,Montana,18
+4086,South Carolina,55
+4183,Colorado,57
+820,Rhode Island,87
+4210,New Mexico,75
+2138,Wisconsin,62
+4211,West Virginia,31
+4214,Massachusetts,34
+4215,Massachusetts,69
+2923,Oklahoma,65
+4217,Mississippi,30
+3222,New Mexico,41
+4218,Kentucky,77
+4221,West Virginia,81
+4222,Nebraska,48
+4226,Rhode Island,61
+4227,Rhode Island,21
+1257,West Virginia,25
+4232,Virgin Islands,70
+4234,New Hampshire,92
+4165,Delaware,73
+1287,Kansas,74
+4240,Louisiana,57
+4238,New Hampshire,31
+4205,Nevada,90
+4233,Virginia,46
+4247,Louisiana,75
+4248,Alaska,55
+4212,Massachusetts,43
+1677,Oregon,20
+3910,Missouri,74
+4252,Minnesota,91
+4253,Colorado,22
+4254,North Carolina,75
+4256,South Carolina,75
+4255,New Mexico,35
+4257,New York,45
+4259,Indiana,88
+4228,Vermont,57
+4263,Nebraska,19
+4262,Wyoming,53
+4268,New Jersey,22
+3415,Iowa,30
+4271,Mississippi,79
+4272,Missouri,34
+4265,Vermont,91
+4274,Mississippi,35
+4276,Virgin Islands,96
+4278,Nebraska,63
+4142,Ohio,86
+4281,Mississippi,51
+4273,Montana,74
+1800,Oklahoma,46
+4283,North Dakota,74
+4285,Montana,80
+4286,New Jersey,51
+4290,Maine,53
+4289,North Carolina,40
+4291,Washington,68
+4277,Texas,54
+4295,Virgin Islands,42
+4264,Tennessee,96
+4302,Tennessee,51
+4303,New Mexico,86
+3089,New Mexico,40
+3153,Montana,71
+4304,South Dakota,62
+4307,Guam,61
+3670,Guam,47
+4309,Puerto Rico,84
+1931,Northern Mariana Islands ,77
+4310,Mississippi,41
+3928,New Jersey,53
+3498,Michigan,45
+4246,California,84
+4298,New Jersey,52
+4315,Guam,76
+4314,Idaho,47
+4317,North Carolina,28
+4325,Puerto Rico,86
+4324,New York,48
+4328,New Jersey,26
+4333,New York,42
+1329,Minnesota,31
+4305,North Carolina,53
+1712,Arizona,85
+4335,Alabama,33
+4322,United States Minor Outlying Islands ,68
+4279,Massachusetts,96
+4337,Rhode Island,85
+4340,Arkansas,26
+4341,Tennessee,60
+3183,Arkansas,35
+2563,Washington,69
+4342,Nevada,78
+4343,Wyoming,80
+4344,Colorado,32
+4292,American Samoa ,93
+4296,Delaware,75
+3710,Guam,40
+4347,Washington,37
+4348,Kansas,51
+4350,Alabama,75
+4119,Michigan,85
+4351,California,71
+4352,North Carolina,80
+4312,Guam,41
+4354,Hawaii,65
+259,Northern Mariana Islands ,98
+1653,Delaware,40
+4356,Rhode Island,59
+4358,Alaska,32
+4359,South Carolina,64
+4360,Iowa,32
+4362,Ohio,63
+4363,Maryland,84
+4101,Guam,35
+4364,Virgin Islands,43
+4224,New Mexico,61
+4367,Iowa,26
+4366,Florida,90
+4372,Ohio,71
+4294,Rhode Island,35
+4377,Maine,90
+4376,Northern Mariana Islands ,56
+4381,Missouri,24
+4383,Utah,80
+4361,Missouri,49
+4378,North Carolina,50
+4387,American Samoa ,18
+4386,Oregon,47
+4395,Kentucky,39
+4396,Maryland,76
+4379,North Carolina,66
+4384,Mississippi,35
+4399,Mississippi,51
+923,Kentucky,56
+4401,Texas,61
+4404,Arkansas,20
+4408,Northern Mariana Islands ,33
+4409,Delaware,90
+4411,South Dakota,39
+4329,Rhode Island,30
+4412,Georgia,20
+4413,North Carolina,84
+4390,California,61
+4375,American Samoa ,87
+4153,Minnesota,86
+4392,Minnesota,31
+4418,Hawaii,88
+4420,Indiana,90
+4425,Alabama,71
+709,Virgin Islands,51
+4382,Ohio,91
+2666,Washington,79
+4388,Guam,35
+4146,Kansas,78
+4429,Nebraska,23
+3715,Connecticut,63
+4431,South Dakota,18
+4434,New Jersey,68
+4436,Kansas,43
+4442,Alaska,98
+4444,Kansas,21
+4441,Minnesota,61
+4445,Rhode Island,96
+4421,Hawaii,21
+4450,New Jersey,93
+4451,Texas,76
+4452,South Carolina,32
+4454,West Virginia,96
+4456,Wyoming,86
+4430,California,27
+4460,South Carolina,20
+4462,Hawaii,54
+4463,Kansas,32
+4464,Connecticut,58
+4465,Virgin Islands,61
+4466,Connecticut,55
+4152,Michigan,58
+4471,Delaware,18
+4472,Indiana,32
+4468,Guam,65
+4473,Arizona,22
+2975,Vermont,59
+4474,Tennessee,81
+4476,Kentucky,69
+4326,Mississippi,89
+4483,Rhode Island,41
+4480,New Jersey,86
+4449,Tennessee,93
+4486,California,75
+3030,New Mexico,22
+4488,Louisiana,41
+127,Georgia,34
+4477,New Jersey,34
+4491,Puerto Rico,50
+4320,Michigan,59
+4492,Missouri,98
+4493,Arkansas,80
+4216,Delaware,52
+4494,Oklahoma,19
+4495,Delaware,80
+4496,District of Columbia,67
+4374,Wyoming,72
+2507,Utah,54
+4498,Kentucky,80
+4500,Alabama,37
+4502,North Dakota,97
+4503,Idaho,33
+908,Indiana,85
+3414,Wisconsin,40
+4426,Oklahoma,93
+4461,Kentucky,86
+4504,South Carolina,56
+4507,New York,70
+4508,Northern Mariana Islands ,87
+4054,Northern Mariana Islands ,81
+4490,Mississippi,28
+4509,Oregon,69
+4522,Idaho,35
+4521,Alaska,75
+4459,Pennsylvania,27
+4528,New Jersey,26
+4530,Texas,98
+4531,Indiana,33
+4532,Georgia,54
+4533,Arizona,73
+4536,Georgia,51
+4514,Washington,43
+4537,New Jersey,34
+4448,Alabama,60
+4538,Hawaii,62
+2091,Iowa,75
+4540,North Carolina,70
+4542,Hawaii,88
+4545,Colorado,85
+4546,Iowa,42
+4547,Texas,76
+4544,Iowa,45
+4511,Northern Mariana Islands ,72
+4551,North Dakota,60
+4553,Rhode Island,67
+4555,Hawaii,21
+4558,Louisiana,23
+4398,Montana,81
+4562,Maryland,88
+4563,Pennsylvania,68
+4570,Tennessee,76
+4571,Alaska,63
+4567,Pennsylvania,89
+3602,Connecticut,35
+4573,District of Columbia,37
+4575,Minnesota,37
+4577,Alabama,60
+4338,Arizona,35
+4020,Ohio,68
+4587,Kentucky,62
+4589,Mississippi,70
+4590,Arkansas,73
+4591,Nevada,19
+4592,American Samoa ,35
+4598,Florida,32
+4596,Florida,28
+4595,District of Columbia,21
+4597,Kentucky,33
+4373,Illinois,68
+4601,Alaska,34
+4602,Texas,49
+4549,Arkansas,74
+3502,West Virginia,25
+4607,West Virginia,90
+4606,United States Minor Outlying Islands ,62
+4608,Guam,97
+4604,Virgin Islands,85
+4610,Rhode Island,32
+4612,Tennessee,62
+4611,Idaho,26
+4018,Iowa,81
+4613,Iowa,33
+832,District of Columbia,68
+4621,Northern Mariana Islands ,82
+4622,Wisconsin,35
+4569,Tennessee,73
+4605,Arizona,84
+4627,Michigan,27
+4630,Indiana,76
+4632,Pennsylvania,20
+4407,Washington,48
+4634,North Carolina,97
+4636,American Samoa ,75
+4628,United States Minor Outlying Islands ,71
+4637,Puerto Rico,56
+4643,Idaho,64
+4638,Rhode Island,47
+4560,Oregon,87
+4614,Rhode Island,98
+4647,Wisconsin,80
+4650,Hawaii,53
+4529,Mississippi,37
+4653,New York,66
+4561,Indiana,86
+4635,Delaware,49
+3902,California,96
+4594,Mississippi,36
+4656,Kentucky,59
+4660,United States Minor Outlying Islands ,73
+4661,Georgia,80
+4287,Wisconsin,48
+4662,Massachusetts,22
+4663,Mississippi,65
+4665,Rhode Island,85
+4666,Nebraska,32
+4380,Iowa,21
+4585,Wyoming,56
+477,Maryland,37
+4652,Tennessee,86
+3090,Nebraska,50
+4676,Colorado,42
+1045,Missouri,55
+4677,Illinois,88
+4680,Utah,46
+4681,Minnesota,52
+4684,Oregon,56
+4685,Illinois,72
+4658,North Dakota,23
+4687,North Dakota,52
+4229,South Dakota,84
+4671,Washington,58
+4691,Arkansas,29
+4664,Connecticut,87
+4689,Tennessee,67
+4582,California,51
+3350,Oklahoma,56
+4695,New Hampshire,84
+4581,Mississippi,89
+4692,Kansas,43
+2342,Colorado,89
+4693,West Virginia,95
+927,Oregon,54
+4702,Texas,21
+4706,United States Minor Outlying Islands ,33
+4705,Virgin Islands,79
+4478,Massachusetts,44
+4700,United States Minor Outlying Islands ,78
+4649,Hawaii,73
+4709,Nebraska,85
+4711,North Dakota,87
+4299,Nebraska,25
+4620,Virgin Islands,92
+4713,New York,34
+4679,New York,51
+4682,Ohio,42
+4717,Washington,88
+4716,American Samoa ,39
+4719,New Hampshire,20
+4704,Nevada,40
+4725,West Virginia,24
+4714,Alabama,50
+4727,Illinois,31
+3143,Wisconsin,54
+4729,Ohio,91
+4730,Nevada,46
+4556,Hawaii,57
+2013,Florida,93
+4718,Idaho,29
+4736,Iowa,61
+2595,Mississippi,87
+4416,Alaska,62
+4747,Texas,19
+4599,Wyoming,47
+4732,Iowa,97
+4752,United States Minor Outlying Islands ,38
+4619,Vermont,93
+4758,Vermont,31
+4760,Northern Mariana Islands ,98
+4761,Northern Mariana Islands ,83
+4759,Rhode Island,83
+4762,Illinois,42
+4357,North Carolina,30
+4765,Wyoming,50
+4755,Pennsylvania,33
+4673,Maine,60
+3562,Alaska,86
+4617,Colorado,61
+2308,New Mexico,96
+244,Idaho,88
+4639,Nebraska,51
+4769,American Samoa ,86
+1344,Florida,93
+4771,Delaware,38
+4737,United States Minor Outlying Islands ,34
+4772,Nevada,98
+4773,Rhode Island,52
+4764,New Jersey,43
+4659,Minnesota,68
+2523,Illinois,97
+4777,Louisiana,85
+4779,Hawaii,66
+4768,Arizona,74
+4780,Georgia,49
+4781,Florida,77
+4782,Nebraska,79
+4783,Colorado,21
+4787,South Carolina,96
+4788,North Dakota,19
+4789,Texas,86
+4792,Vermont,34
+4793,Michigan,88
+4795,Connecticut,37
+4791,South Carolina,90
+4797,Ohio,49
+4796,Washington,66
+4803,New York,46
+4804,Nevada,49
+3500,West Virginia,79
+4749,Illinois,60
+4807,Oregon,95
+4615,West Virginia,82
+4143,Nevada,39
+4813,New Jersey,89
+821,South Dakota,79
+4815,New Hampshire,28
+4818,Connecticut,35
+4822,United States Minor Outlying Islands ,82
+4823,California,29
+1318,Kansas,69
+4827,Florida,33
+4829,North Dakota,29
+4830,Pennsylvania,39
+4778,Utah,24
+4835,Florida,83
+2635,Utah,78
+937,North Dakota,96
+4837,Maryland,49
+4840,Montana,79
+4839,Virgin Islands,44
+4841,Washington,27
+4824,Alabama,75
+4443,Indiana,91
+4814,Montana,22
+4784,Maine,98
+4847,Illinois,83
+4848,Tennessee,32
+4849,Oregon,88
+4852,New Jersey,69
+4853,Missouri,23
+4834,Colorado,20
+4846,Delaware,41
+4831,Puerto Rico,32
+4756,Maine,70
+4854,South Dakota,82
+4861,Delaware,68
+4856,Guam,25
+4776,Nebraska,98
+4867,Virgin Islands,68
+4869,Virginia,58
+4742,Delaware,89
+4870,Mississippi,95
+4871,American Samoa ,19
+4876,New Hampshire,68
+4877,Guam,70
+4880,New York,71
+4881,Guam,84
+4886,Rhode Island,54
+4882,North Dakota,57
+4895,Delaware,83
+4894,New York,54
+3112,South Dakota,51
+4897,Washington,18
+4175,Idaho,69
+1622,Indiana,26
+4883,Colorado,47
+4889,North Dakota,75
+4415,Idaho,23
+4885,Pennsylvania,67
+4902,California,71
+4903,Iowa,32
+4371,Puerto Rico,83
+4906,Texas,21
+4905,Arkansas,29
+4908,Wyoming,41
+2544,Idaho,31
+4586,Kansas,62
+479,Alaska,26
+4916,Ohio,57
+4917,Massachusetts,54
+4909,Washington,26
+4920,American Samoa ,56
+4921,New York,53
+4924,New York,36
+4809,Massachusetts,36
+4838,Ohio,70
+1190,Nevada,95
+4919,Maryland,50
+4419,Utah,45
+4931,Nebraska,51
+4568,United States Minor Outlying Islands ,36
+4808,Pennsylvania,31
+4926,Arizona,43
+4872,District of Columbia,75
+4936,Massachusetts,60
+4937,Alabama,54
+1066,Maine,40
+4934,Minnesota,86
+3443,Virgin Islands,86
+4943,Montana,98
+4576,New Hampshire,85
+419,Wisconsin,44
+4946,Texas,85
+4947,Kansas,91
+4810,Washington,23
+4950,Mississippi,71
+4875,Florida,98
+4927,Virginia,23
+4953,Wisconsin,55
+4956,Pennsylvania,47
+4954,North Dakota,78
+4925,North Carolina,41
+1075,Hawaii,85
+4959,Washington,37
+4963,Virgin Islands,72
+4962,Michigan,68
+4505,Alaska,81
+4969,Michigan,69
+4967,Wyoming,95
+4941,Kentucky,27
+4976,South Dakota,34
+4979,Arizona,38
+4980,South Dakota,19
+4981,North Carolina,21
+4964,Rhode Island,76
+4940,Illinois,82
+4986,North Carolina,55
+4987,Alaska,45
+4974,Oregon,57
+4890,Minnesota,33
+4990,Hawaii,44
+4991,Puerto Rico,43
+4968,Minnesota,86
+4015,Maryland,55
+4993,Connecticut,37
+4994,North Dakota,77
+4997,Nebraska,51
+3149,Tennessee,95
+4975,Northern Mariana Islands ,97
+4965,Guam,42
+4992,Montana,20
+4929,Guam,35
+4999,Oregon,30
+4913,Vermont,82
+4223,Ohio,74
+4616,Minnesota,71
+3494,Alabama,82
+1714,Texas,55
+4816,West Virginia,48
+852,Northern Mariana Islands ,48
+4985,Washington,85
+4930,Vermont,20
+4735,Utah,69
+1295,Illinois,20
+4806,Arizona,96
+4489,Texas,31
+4048,Tennessee,52
+4972,North Carolina,92
+4988,Nebraska,60
+4150,Alaska,59
+4088,Louisiana,51
+4250,Utah,40
+4984,Nevada,88
+4874,Vermont,20
+3863,Virgin Islands,68
+1969,North Carolina,85
+4075,New Hampshire,26
+4501,California,79
+4435,New Jersey,73
+92,Rhode Island,30
+4213,Kentucky,23
+4843,New Mexico,91
+2580,Florida,91
+4798,Ohio,20
+2023,Illinois,77
+4578,Massachusetts,58
+1591,Kansas,28
+2495,Virginia,63
+4327,Oregon,75
+1342,Pennsylvania,64
+4534,Massachusetts,69
+3065,Vermont,57
+104,Montana,97
+4790,Maryland,38
+2482,Nebraska,86
+1844,Tennessee,84
+3740,Virginia,84
+4195,Vermont,39
+3843,Louisiana,39
+4439,Connecticut,52
+2168,Missouri,63
+3297,Arkansas,81
+4470,Missouri,31
+2099,Utah,33
+3973,South Carolina,56
+3917,Arkansas,76
+2735,American Samoa ,52
+4710,District of Columbia,18
+292,Utah,90
+4079,Michigan,94
+3991,Georgia,51
+838,Kentucky,79
+768,Massachusetts,61
+4770,Wisconsin,32
+3162,Georgia,54
+260,Kansas,87
+1797,Nevada,31
+181,Guam,80
+3861,Ohio,36
+354,American Samoa ,87
+3025,Iowa,61
+4170,Colorado,75
+1004,Washington,70
+3527,New Mexico,91
+888,Massachusetts,84
+3362,California,46
+4177,Massachusetts,55
+1299,New Jersey,73
+382,Arkansas,64
+2694,Florida,32
+3676,Oklahoma,42
+2779,Hawaii,63
+3215,California,41
+2354,American Samoa ,43
+1457,Michigan,86
+3834,Illinois,52
+2265,Georgia,74
+3931,Tennessee,39
+1202,Maryland,82
+3962,Michigan,71
+1165,South Carolina,86
+681,Nevada,96
+4996,New Jersey,22
+1905,Maryland,20
+2251,Illinois,75
+4010,New Jersey,70
+1814,Minnesota,38
+4548,Northern Mariana Islands ,29
+1961,Hawaii,63
+4300,New Hampshire,32
+1121,United States Minor Outlying Islands ,73
+4887,Indiana,35
+2798,Michigan,71
+4308,Rhode Island,56
+3561,Colorado,74
+3785,Rhode Island,59
+526,Arizona,89
+3621,Montana,35
+4424,Virginia,60
+2208,Maine,46
+4588,Virgin Islands,73
+3236,Illinois,25
+536,Louisiana,65
+2722,Wisconsin,94
+864,Guam,56
+3071,Mississippi,52
+1282,Alabama,48
+1674,Puerto Rico,92
+3854,California,64
+3681,Guam,71
+1803,West Virginia,36
+2135,Illinois,89
+4938,Montana,73
+3701,South Dakota,26
+3284,Alaska,58
+4438,District of Columbia,80
+4743,New Mexico,54
+2806,Alabama,41
+854,Colorado,43
+4107,Kentucky,18
+877,Nevada,90
+1154,Connecticut,85
+4751,California,89
+3974,Indiana,45
+4565,Michigan,90
+2968,Illinois,96
+2991,Massachusetts,64
+1036,Guam,35
+3200,Washington,58
+3435,Massachusetts,32
+150,South Carolina,32
+1267,Rhode Island,63
+1098,Maine,89
+1792,Tennessee,39
+1486,South Carolina,34
+4261,Nevada,55
+3616,Alabama,47
+3971,Alabama,37
+3936,New Hampshire,92
+2472,Pennsylvania,61
+833,Nevada,85
+2865,Virginia,26
+467,Florida,69
+71,North Carolina,70
+224,Georgia,62
+3946,Connecticut,57
+1675,Mississippi,66
+3241,New Hampshire,79
+732,Colorado,33
+2488,American Samoa ,86
+2221,Oklahoma,61
+1351,Mississippi,70
+2935,Maryland,63
+4767,South Carolina,32
+381,Georgia,97
+719,Tennessee,57
+1738,Minnesota,25
+575,Montana,74
+1376,Washington,66
+2945,Virgin Islands,39
+3547,District of Columbia,83
+4945,Ohio,62
+435,New York,45
+3481,Nevada,81
+1064,Maryland,74
+4912,Oregon,78
+1387,Puerto Rico,86
+2845,Maine,52
+2695,Rhode Island,62
+2432,Mississippi,33
+1151,District of Columbia,70
+3152,Hawaii,70
+3702,Nevada,21
+4625,Minnesota,41
+2610,West Virginia,33
+2673,Rhode Island,41
+1479,New Hampshire,49
+3366,Kentucky,70
+1171,Wisconsin,31
+2960,Guam,48
+4284,Utah,71
+3879,Washington,50
+3832,Missouri,70
+970,Oklahoma,57
+2521,Arizona,69
+4564,Massachusetts,50
+4901,Indiana,76
+1859,Massachusetts,30
+2857,Georgia,54
+962,Colorado,62
+4904,Arkansas,69
+2044,Utah,44
+1708,Rhode Island,47
+1355,Montana,43
+3188,Texas,57
+3248,Virginia,19
+4670,South Dakota,79
+3813,Mississippi,70
+4734,Guam,33
+3887,South Carolina,36
+1946,Virgin Islands,37
+3540,Texas,60
+1894,Northern Mariana Islands ,83
+3294,Delaware,54
+4251,Delaware,61
+1292,Colorado,92
+4423,Connecticut,87
+767,Indiana,65
+1729,Oklahoma,85
+2077,Maine,96
+1099,Wisconsin,78
+2561,South Dakota,32
+941,New Hampshire,43
+3018,United States Minor Outlying Islands ,20
+1898,Wisconsin,35
+3612,North Dakota,27
+2299,Idaho,60
+3156,Nebraska,33
+2755,South Dakota,89
+4349,Virginia,78
+4197,Kansas,46
+2318,South Carolina,37
+2115,New Mexico,46
+4243,Minnesota,53
+2394,Florida,43
+3914,North Dakota,85
+358,Virginia,71
+985,Delaware,94
+1404,Mississippi,95
+2217,New Mexico,66
+507,New Jersey,97
+3007,Wisconsin,59
+4135,Idaho,30
+3314,Ohio,24
+1513,Massachusetts,41
+707,Utah,93
+3150,Arkansas,52
+3869,Wisconsin,65
+3782,Maine,61
+4955,Hawaii,76
+4631,Virginia,21
+844,Alaska,54
+2943,Pennsylvania,29
+3642,Virgin Islands,97
+2574,Nebraska,71
+1589,Hawaii,28
+2273,Vermont,63
+163,New Mexico,85
+1949,Oklahoma,76
+4753,Ohio,61
+3751,Colorado,68
+1966,Iowa,60
+938,Louisiana,57
+3675,American Samoa ,94
+4091,Utah,34
+4181,North Dakota,89
+1382,Montana,29
+567,Indiana,92
+4410,Colorado,60
+4893,Utah,81
+1667,Louisiana,97
+3127,Hawaii,50
+922,Maine,36
+3980,Oregon,94
+2425,Wyoming,66
+4740,Puerto Rico,71
+2005,Nevada,43
+1169,Connecticut,36
+2248,Colorado,23
+3823,South Dakota,62
+1938,Virgin Islands,73
+1516,Missouri,86
+2771,New Mexico,88
+291,Arizona,22
+1397,Ohio,52
+1567,Alaska,29
+3225,Georgia,78
+948,Oregon,52
+16,Northern Mariana Islands ,21
+2887,Colorado,83
+95,Illinois,69
+4339,New Jersey,18
+4155,Missouri,73
+1658,Rhode Island,20
+192,Washington,28
+376,New Jersey,72
+1416,Wisconsin,52
+2421,Missouri,28
+4453,Massachusetts,83
+2669,Virgin Islands,27
+4918,Florida,31
+3778,Rhode Island,64
+3467,Illinois,19
+3039,Washington,88
+986,American Samoa ,63
+4675,Indiana,42
+1242,Arkansas,20
+2200,Nevada,34
+3339,Puerto Rico,91
+4353,Montana,91
+4948,Virgin Islands,43
+1988,Massachusetts,89
+2750,South Dakota,87
+1026,Maine,45
+48,New Hampshire,45
+2668,Maryland,67
+1929,Idaho,36
+3894,Idaho,68
+1978,Kansas,48
+3211,Arizona,63
+4025,Northern Mariana Islands ,38
+2453,California,91
+2006,Montana,94
+2946,Alaska,43
+208,North Carolina,58
+3146,Oregon,21
+1999,Wisconsin,56
+1908,United States Minor Outlying Islands ,93
+2917,Pennsylvania,31
+1094,Maryland,22
+4683,Minnesota,72
+4863,United States Minor Outlying Islands ,86
+3235,Iowa,31
+685,United States Minor Outlying Islands ,74
+1643,Ohio,86
+776,New York,91
+4130,Arkansas,68
+1637,North Carolina,75
+4385,Mississippi,64
+1229,New Hampshire,67
+4485,Arkansas,32
+1467,Maine,60
+3305,West Virginia,74
+4640,Alaska,84
+862,Minnesota,79
+3219,Nebraska,69
+1665,Illinois,42
+686,Idaho,44
+2774,Colorado,38
+696,Illinois,26
+3729,Maine,46
+2608,Nebraska,30
+3822,Kansas,28
+1718,Tennessee,58
+3244,Arkansas,32
+4842,Kentucky,56
+737,Illinois,90
+2236,Idaho,97
+3441,Hawaii,60
+4858,Arizona,67
+1492,Virginia,23
+2950,District of Columbia,52
+2795,New Hampshire,44
+4935,Rhode Island,74
+3518,New Hampshire,64
+2984,Massachusetts,74
+596,New York,34
+3122,Oklahoma,45
+1813,Nebraska,78
+4129,Wyoming,39
+4510,Delaware,20
+1683,New Mexico,70
+170,District of Columbia,79
+906,Delaware,80
+368,Guam,59
+2246,American Samoa ,19
+1879,Georgia,52
+960,Virgin Islands,23
+2349,United States Minor Outlying Islands ,55
+3739,Georgia,80
+1911,Utah,28
+4031,Vermont,72
+294,Wyoming,98
+949,Maine,40
+4785,Illinois,48
+2405,Alabama,80
+958,South Dakota,44
+4282,Delaware,77
+4235,California,73
+2698,Maryland,70
+2535,West Virginia,96
+3992,Nevada,72
+4323,Puerto Rico,63
+30,Iowa,43
+677,New York,71
+1975,Maryland,40
+2885,Maryland,92
+1407,Washington,25
+4557,Alabama,80
+436,Pennsylvania,87
+4414,Minnesota,27
+1556,Maine,75
+4297,Northern Mariana Islands ,76
+4134,South Dakota,93
+1273,Puerto Rico,48
+2892,United States Minor Outlying Islands ,28
+901,New Hampshire,92
+2447,New Mexico,89
+441,West Virginia,59
+641,Virgin Islands,44
+4455,Arizona,42
+4405,Kentucky,96
+1035,Northern Mariana Islands ,84
+4173,North Dakota,75
+1793,Maryland,29
+3550,Maine,61
+893,Delaware,93
+2011,United States Minor Outlying Islands ,68
+2989,Massachusetts,45
+565,Kansas,46
+3760,Arizona,61
+4978,Indiana,80
+4583,District of Columbia,63
+4084,Florida,59
+3131,Virgin Islands,28
+3437,South Carolina,59
+2047,Delaware,22
+359,Tennessee,85
+2836,New York,63
+1469,Alaska,50
+2686,Alabama,54
+4345,Iowa,35
+2137,Mississippi,52
+4939,Colorado,36
+3796,Nebraska,52
+2496,Washington,45
+4952,New York,87
+4844,Rhode Island,27
+3968,Louisiana,60
+2463,Iowa,92
+502,Texas,95
+4525,Indiana,27
+4812,Tennessee,25
+3967,Kansas,25
+655,Rhode Island,31
+3552,Arizona,72
+3537,Louisiana,49
+4157,Illinois,21
+527,Illinois,49
+132,Illinois,77
+3781,Hawaii,49
+2144,Wyoming,89
+3867,Kansas,43
+3553,Maryland,89
+426,Kentucky,29
+2706,New York,58
+2972,South Dakota,22
+313,South Dakota,72
+660,Nebraska,55
+4241,Puerto Rico,36
+3609,South Dakota,72
+1732,Florida,74
+4584,North Carolina,68
+1739,Colorado,84
+617,Mississippi,77
+1776,Arizona,89
+4669,Tennessee,46
+186,District of Columbia,96
+3897,Kansas,49
+4855,Tennessee,28
+1088,North Dakota,56
+4907,North Carolina,71
+4826,Illinois,38
+1748,Northern Mariana Islands ,65
+4845,Delaware,36
+60,District of Columbia,33
+2203,Idaho,52
+4828,Indiana,52
+4983,Nebraska,55
+3456,Wyoming,53
+371,Wyoming,23
+134,Virginia,27
+2921,Kentucky,82
+2403,Montana,78
+2328,Oregon,39
+4914,Wyoming,79
+3803,Missouri,39
+2196,District of Columbia,69
+1502,Utah,81
+3445,Virginia,93
+4446,American Samoa ,57
+4559,Wisconsin,37
+730,Puerto Rico,27
+3343,Kentucky,69
+1970,Washington,83
+2163,Utah,23
+2052,California,29
+2213,Idaho,46
+652,Arizona,57
+798,South Carolina,44
+1372,Rhode Island,95
+2411,Arkansas,38
+4316,South Dakota,87
+1957,Minnesota,75
+3883,District of Columbia,22
+2392,United States Minor Outlying Islands ,96
+4741,Vermont,62
+1022,United States Minor Outlying Islands ,32
+1904,United States Minor Outlying Islands ,79
+1863,Northern Mariana Islands ,70
+1588,Oklahoma,92
+3580,Iowa,47
+4817,Delaware,54
+4690,Florida,40
+98,Nebraska,72
+998,Northern Mariana Islands ,95
+4081,Montana,87
+3677,New Mexico,57
+4433,Louisiana,34
+4482,Nebraska,98
+4437,Michigan,32
+44,Oklahoma,77
+3142,New Jersey,31
+2346,Wyoming,47
+67,New Mexico,42
+3140,Maryland,54
+3083,New Hampshire,27
+553,Oregon,31
+2623,New Jersey,18
+37,Pennsylvania,89
+739,Iowa,32
+1587,Illinois,85
+1333,Washington,25
+674,Utah,87
+772,Indiana,44
+2590,Northern Mariana Islands ,40
+1831,Kentucky,84
+894,Arizona,84
+1249,Illinois,80
+939,Massachusetts,49
+461,Montana,59
+3226,Wisconsin,34
+4754,Delaware,36
+541,Florida,58
+4011,Kentucky,88
+2264,Northern Mariana Islands ,30
+1995,New Jersey,71
+984,New Hampshire,43
+4722,Arkansas,50
+4748,Delaware,89
+165,South Dakota,78
+3279,New York,56
+3680,Delaware,28
+2097,Guam,56
+3866,Indiana,88
+910,Virginia,82
+4073,Maine,18
+3182,Wisconsin,60
+39,Arkansas,45
+3900,North Carolina,27
+1625,Massachusetts,24
+4475,Mississippi,38
+3804,Puerto Rico,94
+2664,Colorado,61
+1733,Maine,72
+4220,North Carolina,65
+1566,Guam,22
+1613,Minnesota,57
+2745,United States Minor Outlying Islands ,24
+35,Massachusetts,82
+3755,Arkansas,45
+3196,Massachusetts,85
+1136,California,27
+890,Florida,46
+4866,Wyoming,89
+431,Oregon,45
+2003,Vermont,43
+3979,Wyoming,20
+1697,Alaska,82
+4923,Oklahoma,78
+2062,Florida,55
+161,South Carolina,94
+2562,Arizona,46
+280,South Dakota,87
+4127,Wyoming,18
+1881,Mississippi,87
+211,North Carolina,36
+4878,Massachusetts,71
+2582,South Carolina,80
+4579,Connecticut,39
+3941,Kansas,73
+3720,Wisconsin,44
+1386,Pennsylvania,74
+4686,Ohio,59
+4499,West Virginia,60
+4641,Arizona,45
+3033,Texas,86
+2332,Montana,80
+2480,Delaware,58
+47,Michigan,85
+4739,Delaware,38
+3121,Louisiana,73
+4467,Minnesota,63
+4026,Illinois,38
+4899,Delaware,36
+2791,Northern Mariana Islands ,66
+1207,District of Columbia,74
+1986,North Carolina,97
+3457,New York,41
+817,Virginia,95
+4016,Nevada,20
+4836,California,28
+2682,Colorado,59
+1369,Wisconsin,54
+2083,Colorado,39
+4369,Ohio,45
+3984,Oklahoma,30
+1896,Nevada,56
+1755,Oklahoma,72
+2002,Georgia,78
+2596,Alaska,66
+4137,Northern Mariana Islands ,88
+3607,Minnesota,72
+1339,Oregon,78
+4703,Utah,51
+4319,Indiana,33
+3590,Wyoming,21
+1891,Iowa,56
+3073,Massachusetts,87
+2160,Massachusetts,51
+2821,Mississippi,45
+2993,Guam,84
+856,Arizona,34
+4192,Alaska,78
+2171,New Jersey,44
+3355,North Dakota,33
+3862,District of Columbia,31
+904,Northern Mariana Islands ,43
+1090,Minnesota,51
+4269,Rhode Island,34
+2173,Montana,67
+2243,Texas,65
+2004,Utah,56
+2189,Nevada,79
+845,Puerto Rico,48
+4156,Utah,66
+1993,California,79
+4832,New York,25
+3199,Iowa,21
+2781,Guam,66
+96,Guam,25
+2505,Wyoming,93
+3759,Massachusetts,21
+41,Hawaii,49
+4850,Northern Mariana Islands ,94
+1185,North Carolina,60
+1140,Arizona,30
+1773,Michigan,63
+2147,Arizona,78
+827,Alabama,63
+858,Arizona,62
+350,Wisconsin,82
+4642,North Carolina,25
+882,North Dakota,74
+1952,Michigan,31
+1130,Arkansas,51
+3114,Tennessee,60
+3611,Massachusetts,92
+2900,Pennsylvania,84
+4484,Texas,55
+3954,Idaho,91
+2529,Indiana,31
+4724,Connecticut,19
+2362,Louisiana,72
+4106,Arizona,87
+2071,Alaska,30
+3210,Maryland,48
+398,Missouri,46
+2994,Montana,65
+1635,New Jersey,95
+4186,Utah,85
+1670,Idaho,39
+2906,Wyoming,26
+3489,Hawaii,60
+2712,New Jersey,24
+1371,Mississippi,88
+2659,Alaska,66
+2363,South Carolina,60
+3416,California,19
+4479,Arizona,55
+4672,Massachusetts,81
+241,Ohio,48
+1781,American Samoa ,20
+2526,Kentucky,74
+1573,Indiana,27
+140,North Carolina,77
+3923,Arizona,56
+2127,Missouri,46
+1887,Maryland,25
+3267,American Samoa ,73
+4541,Virginia,33
+4750,Guam,64
+720,New Mexico,97
+2490,Wisconsin,85
+4910,Kentucky,25
+664,Maine,57
+2918,Pennsylvania,82
+4629,New Jersey,98
+3907,Maryland,19
+4069,Tennessee,79
+645,Washington,39
+3429,New Hampshire,34
+3529,Wisconsin,72
+3978,American Samoa ,71
+556,Wisconsin,49
+4021,Wisconsin,22
+2461,Idaho,74
+4123,Nebraska,28
+3685,Vermont,26
+3019,North Dakota,96
+4368,Alaska,67
+3405,Alaska,22
+4949,West Virginia,92
+1870,Minnesota,31
+3584,Louisiana,79
+81,South Carolina,24
+3827,South Carolina,45
+1203,Alaska,30
+1015,Wyoming,62
+3439,American Samoa ,62
+3072,Washington,85
+1742,Utah,26
+1134,Vermont,33
+4738,Mississippi,68
+3497,South Dakota,27
+2064,Illinois,84
+1795,Florida,61
+4960,Ohio,29
+4668,Minnesota,77
+3238,Maryland,89
+3927,Minnesota,55
+3399,Oklahoma,80
+1985,Iowa,23
+3120,Hawaii,40
+1691,Louisiana,51
+3160,Maryland,22
+3003,Oregon,59
+1337,Rhode Island,70
+873,North Dakota,22
+3516,Kansas,86
+1363,Minnesota,31
+1484,Iowa,41
+1313,Michigan,22
+4198,Tennessee,28
+1693,Pennsylvania,80
+1505,Kansas,38
+3950,Nevada,42
+119,New Hampshire,95
+2861,Kentucky,34
+3919,Minnesota,61
+661,Connecticut,55
+2433,Maine,55
+3939,Tennessee,26
+4715,New Jersey,83
+1370,Illinois,48
+3037,Michigan,69
+4802,Montana,61
+2441,Oklahoma,38
+1428,Delaware,32
+5000,New Mexico,18
+471,California,53
+2053,New Mexico,63
+1442,Rhode Island,90
+2350,South Carolina,18
+2212,Missouri,72
+1067,Puerto Rico,19
+2653,Guam,36
+4851,Virgin Islands,58
+704,Colorado,58
+1256,Puerto Rico,33
+3698,Indiana,64
+4896,Oregon,30
+2676,Idaho,44
+4966,Arkansas,88
+4394,American Samoa ,49
+4071,New York,29
+88,West Virginia,38
+2874,Alabama,44
+4481,Texas,96
+4306,South Carolina,38
+27,Ohio,27
+4805,Illinois,39
+4539,Oklahoma,67
+1072,Kansas,65
+1071,Illinois,69
+4524,Virgin Islands,64
+3691,Puerto Rico,97
+2833,Arizona,40
+3880,South Dakota,91
+3378,Missouri,48
+659,Hawaii,90
+4819,Guam,70
+3104,Northern Mariana Islands ,40
+3809,Alabama,84
+4330,Pennsylvania,26
+2312,Idaho,58
+1944,New Jersey,49
+2393,United States Minor Outlying Islands ,98
+4365,American Samoa ,38
+4915,Virginia,53
+3379,Vermont,24
+4355,Missouri,98
+867,Alaska,66
+3700,Illinois,43
+3224,Montana,47
+3836,Connecticut,86
+1770,Pennsylvania,47
+2150,Minnesota,80
+3664,Washington,96
+3653,Delaware,91
+434,Arizona,92
+4580,Hawaii,24
+4891,Pennsylvania,32
+1054,Arizona,69
+4169,Arkansas,83
+1379,Puerto Rico,33
+1082,Pennsylvania,61
+2924,Utah,21
+4701,Nebraska,20
+4102,Alaska,64
+874,Kansas,31
+4458,Maine,69
+3134,Colorado,95
+1862,West Virginia,64
+4857,Utah,36
+1152,California,45
+3787,Arizona,71
+3388,Missouri,98
+2417,California,64
+1533,Puerto Rico,86
+4168,Illinois,64
+1754,Georgia,85
+460,Mississippi,85
+849,West Virginia,83
+2442,North Carolina,33
+1750,Arkansas,75
+2533,Illinois,28
+727,California,43
+609,Michigan,42
+2286,Wisconsin,81
+3645,Nevada,37
+4728,Pennsylvania,41
+3930,Michigan,71
+524,Vermont,72
+2973,Louisiana,38
+2190,Colorado,78
+1950,New Hampshire,66
+2784,Washington,21
+1747,United States Minor Outlying Islands ,46
+1527,Arkansas,69
+4911,United States Minor Outlying Islands ,32
+4245,Illinois,72
+4825,Alaska,73
+2826,Delaware,55
+1692,Mississippi,79
+3833,Michigan,31
+1960,North Dakota,92
+4346,Idaho,77
+1163,Arkansas,18
+3648,Iowa,71
+1615,Kentucky,48
+1384,North Carolina,36
+1177,Oregon,34
+2297,Idaho,94
+1943,California,73
+3663,Arkansas,85
+2479,New Hampshire,20
+3488,New Hampshire,80
+14,Maine,67
+1676,Guam,77
+1101,District of Columbia,49
+1425,Louisiana,80
+2390,Virginia,60
+4172,Michigan,93
+3487,Louisiana,97
+145,Iowa,50
+836,Tennessee,56
+4030,Kentucky,54
+3600,Oklahoma,95
+3045,South Dakota,73
+591,Northern Mariana Islands ,75
+1601,Virgin Islands,48
+4518,New York,48
+4128,Virginia,75
+1100,Kansas,70
+883,Georgia,66
+188,Wisconsin,75
+1239,South Carolina,46
+570,Nebraska,78
+282,Northern Mariana Islands ,25
+2813,Oklahoma,48
+4064,Virgin Islands,86
+1231,Alabama,40
+3604,Utah,53
+4487,Tennessee,86
+4820,Rhode Island,88
+1440,West Virginia,53
+3742,West Virginia,75
+4111,Delaware,24
+611,Mississippi,52
+2081,Texas,47
+4721,New Hampshire,85
+2511,Massachusetts,65
+3850,Kansas,55
+3349,Northern Mariana Islands ,70
+2131,Illinois,59
+1245,California,45
+1728,Iowa,56
+621,Northern Mariana Islands ,32
+4646,Iowa,81
+3357,Rhode Island,88
+3189,North Dakota,46
+3893,West Virginia,21
+2012,Connecticut,35
+4763,New Hampshire,33
+2141,Nebraska,78
+1284,Arizona,41
+3874,Washington,46
+1227,United States Minor Outlying Islands ,27
+4942,Northern Mariana Islands ,28
+1633,Utah,76
+1320,New Hampshire,35
+2765,Arkansas,96
+2897,Arizona,61
+1410,Vermont,47
+1280,Hawaii,76
+144,Idaho,75
+625,Oregon,46
+1759,Colorado,89
+3911,New York,80
+3266,Pennsylvania,34
+2625,Vermont,67
+931,Florida,74
+166,New Hampshire,87
+3734,Kentucky,65
+2842,Tennessee,53
+3034,Ohio,83
+1640,Tennessee,34
+4225,Colorado,20
+2964,Alaska,54
+2167,Minnesota,65
+902,Vermont,76
+3438,Tennessee,44
+2199,Idaho,35
+4311,Indiana,79
+2402,Nebraska,33
+1192,Nebraska,78
+631,Alabama,69
+3632,Nebraska,59
+2368,New Hampshire,65
+1837,Mississippi,19
+708,South Carolina,58
+326,Maryland,69
+671,Nebraska,35
+713,Arizona,35
+1224,Maine,92
+1393,Maryland,65
+4868,New Jersey,95
+1490,Virgin Islands,32
+1688,Massachusetts,31
+4065,Oklahoma,59
+4515,Connecticut,92
+3432,Kentucky,24
+705,Connecticut,95
+1839,Alaska,34
+1997,United States Minor Outlying Islands ,48
+2841,New Jersey,66
+4733,Pennsylvania,69
+4745,Louisiana,98
+2627,Guam,69
+4043,Louisiana,87
+1222,American Samoa ,53
+3442,Kentucky,45
+152,New Jersey,82
+4163,Oregon,81
+2364,Connecticut,93
+2054,Arizona,32
+2109,Montana,82
+1141,Arkansas,36
+2982,Ohio,98
+3078,Nevada,21
+4696,North Dakota,55
+305,Delaware,91
+2382,Nevada,45
+437,Oregon,97
+3654,Illinois,30
+4543,Washington,18
+2413,New Mexico,55
+4961,Michigan,64
+4609,Nebraska,27
+500,Maine,50
+4624,Missouri,55
+1623,New York,63
+2780,Mississippi,89
+1021,Nebraska,77
+680,Rhode Island,52
+277,Vermont,51
+3205,West Virginia,19
+3627,Connecticut,95
+1348,Missouri,55
+2207,American Samoa ,59
+2949,Maine,42
+3400,Tennessee,90
+1998,Texas,37
+2056,Maryland,69
+878,Oregon,77
+1480,Oregon,41
+2838,Montana,90
+2327,Vermont,49
+4516,Kansas,74
+4417,Kansas,80
+3155,Ohio,90
+4239,Vermont,95
+2235,Rhode Island,65
+3119,South Carolina,37
+3344,Arkansas,37
+2494,Arizona,64
+584,Massachusetts,82
+374,Missouri,68
+2166,Kentucky,84
+572,Massachusetts,32
+2708,South Carolina,62
+4096,Vermont,28
+1498,North Dakota,40
+4712,Colorado,33
+545,California,58
+1360,New York,54
+1524,Colorado,73
+2336,Arkansas,37
+2979,Louisiana,27
+4864,Oklahoma,28
+329,Louisiana,67
+3333,Arkansas,50
+2818,New Hampshire,82
+4757,Delaware,40
+3009,Illinois,84
+771,Virginia,32
+213,Northern Mariana Islands ,62
+2194,Iowa,38
+3013,New Jersey,18
+3773,Arkansas,27
+1213,Michigan,19
+1078,District of Columbia,80
+2113,Pennsylvania,19
+4406,Virgin Islands,41
+2866,Georgia,18
+1858,United States Minor Outlying Islands ,71
+4005,Delaware,26
+470,Colorado,42
+4799,Texas,89
+4201,Alaska,37
+2744,Indiana,30
+421,West Virginia,88
+2567,Montana,55
+4707,Virgin Islands,98
+2372,West Virginia,48
+729,Colorado,65
+308,Oregon,61
+2290,Hawaii,62
+4746,Nebraska,54
+787,Michigan,95
+2132,Maryland,74
+509,Massachusetts,91
+4402,Tennessee,45
+1477,Alabama,21
+3750,Florida,68
+4206,Colorado,29
+424,Ohio,31
+1186,District of Columbia,19
+348,Connecticut,67
+1576,New Mexico,64
+2581,Ohio,63
+2041,Louisiana,23
+2731,New Hampshire,90
+4427,Vermont,81
+754,Tennessee,43
+1651,Maine,58
+4970,Nebraska,76
+633,Mississippi,63
+3418,Washington,62
+3058,South Dakota,27
+2183,Nevada,77
+4497,Missouri,50
+2801,Michigan,29
+2742,Guam,39
+2757,Pennsylvania,38
+478,New Jersey,18
+886,Michigan,64
+1928,Iowa,71
+4151,Indiana,83
+193,Delaware,61
+4535,Maryland,74
+1301,Arizona,35
+4989,New Mexico,21
+4139,Arkansas,97
+673,Illinois,59
+3154,Iowa,51
+2192,Vermont,30
+3370,Texas,31
+4331,Rhode Island,72
+51,California,19
+834,Alaska,97
+409,Nevada,42
+4052,Guam,21
+4833,United States Minor Outlying Islands ,39
+2658,Minnesota,60
+1275,District of Columbia,77
+266,Virgin Islands,47
+666,Tennessee,48
+505,Northern Mariana Islands ,28
+4859,Montana,26
+3643,Arkansas,45
+4053,New Jersey,28
+4118,Vermont,56
+4526,Hawaii,71
+4400,North Dakota,34
+2114,North Carolina,76
+4958,Ohio,43
+1201,California,44
+3932,Oklahoma,46
+310,Oregon,69
+1955,Arizona,19
+1279,Maine,75
+4794,Indiana,65
+3373,New Hampshire,44
+4821,Rhode Island,88
+2239,Virginia,80
+2559,Northern Mariana Islands ,44
+268,Arizona,59
+3876,Arkansas,76
+4249,Utah,31
+111,Northern Mariana Islands ,23
+2520,Wisconsin,43
+157,New Mexico,85
+3020,Kentucky,28
+4370,Connecticut,71
+4019,Maine,67
+3505,Texas,71
+3780,Massachusetts,81
+1864,Louisiana,42
+1668,Washington,19
+889,Rhode Island,82
+2306,Mississippi,76
+1673,Pennsylvania,87
+1901,United States Minor Outlying Islands ,28
+4391,Oklahoma,88
+341,North Dakota,94
+1982,American Samoa ,42
+1119,Nebraska,42
+251,Colorado,29
+851,Utah,68
+4293,Oregon,38
+3059,New Jersey,27
+3040,Iowa,40
+272,West Virginia,82
+3334,New York,55
+346,Ohio,26
+2395,District of Columbia,79
+3523,New Hampshire,96
+3496,Texas,82
+2324,Iowa,76
+4633,New Mexico,41
+3577,Minnesota,28
+1269,Missouri,56
+2776,Texas,63
+4775,Arkansas,74
+3249,Wyoming,88
+1925,Vermont,38
+988,Delaware,42
+2690,Puerto Rico,53
+261,Texas,40
+1963,Northern Mariana Islands ,73
+201,Ohio,74
+309,New Jersey,51
+442,Utah,58
+3945,Illinois,63
+799,Vermont,90
+2066,South Dakota,34
+4865,New York,59
+252,Puerto Rico,59
+4527,Wyoming,40
+1621,Virginia,50
+4688,Oregon,69
+4801,Northern Mariana Islands ,31
+1841,Nevada,72
+1314,Arizona,96
+2426,Montana,22
+993,California,64
+3733,New Jersey,44
+3753,Florida,55
+4219,Connecticut,53
+2486,Delaware,84
+2849,Colorado,37
+2098,Rhode Island,93
+3271,Hawaii,26
+2400,New Mexico,44
+4393,Idaho,18
+3608,California,53
+3361,Guam,29
+4720,Alaska,95
+3128,Hawaii,68
+4674,Vermont,29
+3669,California,49
+321,Arizona,60
+3016,Kansas,88
+19,Michigan,48
+753,Florida,84
+2090,North Carolina,23
+4244,Iowa,95
+2729,Georgia,86
+3202,Kentucky,76
+2986,North Carolina,91
+4044,Puerto Rico,84
+4552,California,42
+172,Washington,88
+4258,Puerto Rico,20
+1552,South Carolina,68
+2592,California,77
+2987,South Dakota,71
+785,Pennsylvania,33
+3694,Virginia,18
+2343,Tennessee,24
+3728,Montana,50
+761,Idaho,53
+4644,Connecticut,78
+3690,Puerto Rico,25
+1419,West Virginia,29
+1780,Virginia,90
+2719,Mississippi,35
+2997,American Samoa ,31
+2851,New Jersey,31
+4678,Virgin Islands,63
+4766,Oregon,39
+2564,American Samoa ,38
+1849,Wyoming,42
+766,Montana,40
+2287,Ohio,49
+2822,Alaska,37
+762,Vermont,42
+3618,Arkansas,48
+3459,New Jersey,46
+3230,District of Columbia,83
+2435,Puerto Rico,71
+1632,Maine,65
+3689,Maine,24
+4209,Pennsylvania,22
+3201,United States Minor Outlying Islands ,95
+734,Guam,74
+2901,Alabama,74
+1984,Louisiana,19
+273,Tennessee,55
+967,Florida,27
+4523,New Mexico,60
+4645,Minnesota,53
+1603,Illinois,32
+2241,South Dakota,28
+3886,Massachusetts,35
+4432,Alabama,62
+3234,Massachusetts,18
+1241,Alabama,44
+3652,Montana,81
+2720,Indiana,96
+1181,Illinois,79
+4618,Kansas,64
+4095,Colorado,27
+3312,Virginia,97
+2515,Kansas,41
+4068,New Mexico,60
+4136,Nebraska,29
+742,Indiana,96
+2578,Montana,27
+3317,Missouri,57
+3323,Michigan,20
+1405,New Hampshire,93
+1707,Ohio,60
+3534,Nebraska,71
+1976,South Carolina,31
+1105,Guam,69
+1624,Arizona,77
+4113,California,95
+2807,Connecticut,82
+2651,Montana,80
+2509,Delaware,97
+1827,Hawaii,95
+501,Illinois,20
+747,Arizona,21
+4270,New Hampshire,81
+3491,United States Minor Outlying Islands ,22
+2828,Rhode Island,88
+4860,Alabama,27
+4572,Alabama,90
+4933,Oregon,59
+3587,United States Minor Outlying Islands ,30
+2773,Minnesota,96
+3831,Puerto Rico,58
+4457,Florida,89
+3588,United States Minor Outlying Islands ,89
+4626,South Dakota,41
+534,Florida,44
+4932,Nevada,54
+1679,Washington,44
+1133,Arizona,94
+4694,Guam,29
+3118,Idaho,51
+3062,Connecticut,67
+4122,New Mexico,36
+1521,California,22
+2660,Maryland,30
+4723,Michigan,69
+3865,Virgin Islands,94
+4301,Texas,85
+1373,Vermont,94
+365,Iowa,34
+1056,District of Columbia,93
+3564,Tennessee,39
+405,Arizona,43
+4892,Iowa,63
+1317,United States Minor Outlying Islands ,97
+3036,South Dakota,24
+4001,New York,58
+2179,Missouri,95
+4873,North Dakota,96
+2158,Massachusetts,30
+12,West Virginia,94
+3376,New Mexico,28
+3440,Virginia,79
+2799,Rhode Island,37
+4550,Northern Mariana Islands ,51
+2872,Virgin Islands,56
+2266,Minnesota,37
+414,Washington,55
+2305,Nebraska,56
+693,Alabama,70
+3789,Louisiana,90
+97,New Hampshire,79
+4189,Ohio,36
+2877,West Virginia,29
+3852,Virgin Islands,59
+4440,Kentucky,83
+1223,Minnesota,30
+4554,Louisiana,54
+4922,Ohio,47
+3096,Arkansas,67
+593,New York,55
+4318,Ohio,44
+3801,Hawaii,50
+281,Virgin Islands,59
+2434,North Carolina,34
+1128,Ohio,40
+1491,Alabama,83
+3744,Colorado,21
+3111,Alabama,80
+3452,North Carolina,83
+945,North Dakota,19
+1017,Maryland,77
+4697,Massachusetts,18
+4422,Hawaii,77
+3281,Wisconsin,37
+4334,Nebraska,86
+2880,Tennessee,44
+2152,Florida,75
+1646,Wyoming,31
+1093,Massachusetts,63
+597,Georgia,43
+2855,North Dakota,39
+1830,Kansas,68
+4144,Ohio,88
+3983,District of Columbia,42
+1319,Oregon,62
+254,Maryland,50
+3819,New York,41
+4275,Nevada,49
+4403,North Carolina,46
+2958,Ohio,56
+1039,Mississippi,71
+2772,Kentucky,56
+2678,New York,64
+3348,Nevada,42
+102,Pennsylvania,20
+20,Louisiana,51
+2040,Vermont,92
+1636,Massachusetts,51
+1812,Kansas,49
+4039,Oregon,69
+847,Virgin Islands,43
+4042,South Dakota,69
+3570,Michigan,61
+2891,Guam,32
+3622,Maine,32
+2263,Florida,50
+2408,North Carolina,89
+2165,Idaho,54
+2896,Pennsylvania,90
+1531,Rhode Island,78
+1920,Mississippi,92
+784,South Dakota,32
+4035,Utah,60
+4288,Utah,77
+4162,American Samoa ,50
+3757,Michigan,29
+2134,Florida,25
+3159,Massachusetts,78
+3637,Indiana,63
+1785,Pennsylvania,32
+1967,Virgin Islands,98
+2353,Tennessee,43
+107,Virginia,95
+1233,South Dakota,70
+1031,South Carolina,80
+3513,Minnesota,77
+1855,Maryland,85
+4774,South Carolina,55
+3985,Kansas,61
+4187,South Carolina,61
+3551,American Samoa ,89
+3814,Northern Mariana Islands ,70
+601,Connecticut,48
+2898,Massachusetts,19
+1746,Colorado,52
+4603,New Jersey,90
+2206,Minnesota,66
+3548,California,21
+33,Arkansas,74
+3924,California,31
+2629,Northern Mariana Islands ,25
+118,American Samoa ,45
+1158,Rhode Island,35
+1391,Michigan,63
+2465,South Dakota,63
+432,Indiana,67
+4397,Alabama,73
+2116,Guam,93
+2379,South Carolina,61
+1918,Massachusetts,18
+911,Arkansas,30
+3173,Wisconsin,58
+3800,Massachusetts,20
+3673,Arkansas,48
+4884,Wyoming,73
+577,Texas,80
+327,Virgin Islands,83
+2867,Florida,35
+678,Missouri,82
+2786,Oregon,47
+3050,Alabama,37
+640,United States Minor Outlying Islands ,22
+2956,North Dakota,79
+2444,Ohio,30
+1451,Wyoming,97
+3994,Northern Mariana Islands ,40
+1865,Mississippi,84
+288,Oregon,40
+722,Indiana,22
+4944,Minnesota,62
+377,Ohio,97
+5,Arizona,97
+1786,Connecticut,20
+3010,Oklahoma,19
+4166,Indiana,51
+3282,Kansas,52
+2723,Tennessee,97
+3712,Wyoming,38
+1338,American Samoa ,45
+334,Missouri,48
+3419,United States Minor Outlying Islands ,33
+3660,Connecticut,23
+1817,Puerto Rico,53
+4995,Colorado,52
+4112,Texas,42
+369,Arizona,39
+955,Oklahoma,74
+4982,California,87
+3706,Arizona,22
+4237,Indiana,21
+3818,Virgin Islands,76
+1639,Alabama,63
+794,Arizona,43
+1575,Texas,34
+1389,Idaho,86
+3810,Oregon,39
+4280,Illinois,89
+2812,West Virginia,76
+2280,Indiana,72
+217,Vermont,78
+2594,Rhode Island,88
+474,Louisiana,53
+4900,Idaho,64
+2607,Texas,92
+2541,Montana,90
+4231,New Hampshire,58
+3197,Georgia,47
+2170,Maryland,19
+3135,South Dakota,42
+3095,Nevada,52
+2514,South Carolina,62
+2049,New Jersey,66
+1303,Virgin Islands,30
+2155,Pennsylvania,88
+1848,Michigan,34
+775,Indiana,71
+445,Massachusetts,98
+4519,United States Minor Outlying Islands ,30
+2977,New York,78
+1170,Mississippi,88
+2315,Arizona,55
+4648,Delaware,51
+1216,Utah,90
+438,Massachusetts,20
+4203,Virginia,85
+4332,Tennessee,69
+2941,Kentucky,38
+1535,Colorado,46
+2718,Indiana,95
+843,California,52
+2360,Illinois,39
+4267,Connecticut,19
+4977,California,44
+1324,American Samoa ,42
+2947,Oklahoma,65
+2293,Kansas,72
+3404,Connecticut,63
+2484,Maine,97
+3651,Kansas,45
+2256,Oklahoma,82
+13,Louisiana,46
+2894,Connecticut,56
+373,Wyoming,64
+4566,Missouri,39
+99,Guam,26
+831,American Samoa ,85
+3396,South Carolina,52
+4517,Northern Mariana Islands ,44
+1815,Idaho,64
+2640,Alabama,64
+1345,American Samoa ,41
+1051,Nevada,77
+1945,North Carolina,97
+4898,Delaware,75
+2330,South Carolina,94
+846,Kansas,43
+4520,South Carolina,46
+160,Minnesota,75
+3264,Illinois,56
+1383,Delaware,66
+1685,South Dakota,93
+4099,Virginia,53
+964,Alaska,41
+3515,Missouri,60
+343,Montana,79
+4651,Virgin Islands,53
+1359,Louisiana,37
+4428,New Mexico,21
+3998,American Samoa ,25
+4506,Michigan,47
+1972,Kansas,81
+3247,Iowa,41
+464,Louisiana,80
+560,Delaware,74
+390,Oregon,87
+586,United States Minor Outlying Islands ,74
+4032,American Samoa ,28
+3934,Louisiana,48
+4726,New York,44
+4321,Montana,65
+915,West Virginia,54
+2468,Northern Mariana Islands ,81
+1842,Oklahoma,55
+216,Georgia,47
+1120,Utah,47
+1048,Nevada,44
+576,Michigan,62
+235,Alaska,95
+3144,Washington,41
+1199,Indiana,38
+2027,Washington,40
+3776,Ohio,39
+4109,Indiana,70
+2556,Utah,97
+672,Maine,65
+1816,Texas,33
+1156,Vermont,59
+2140,Alaska,29
+3864,Mississippi,76
+1959,Kansas,58
+4654,New Mexico,71
+692,Puerto Rico,27
+4862,Maryland,68
+236,Louisiana,31
+1769,New Jersey,89
+3454,New Mexico,24
+1662,Alaska,72
+4928,Hawaii,46
+3976,Arkansas,37
+1182,North Dakota,53
+2195,Wisconsin,81
+1255,North Dakota,24
+4034,Wisconsin,57
+1699,Illinois,55
+3166,Florida,61
+4389,Oregon,76
+3315,Indiana,79
+4971,Ohio,22
+2107,New Hampshire,82
+824,Pennsylvania,89
+3382,Kansas,62
+4161,Indiana,18
+700,Alaska,51
+2133,Indiana,18
+4336,Minnesota,89
+2120,Alabama,44
+3417,Michigan,42
+2700,Washington,91
+1272,Delaware,68
+4698,California,23
+4800,Alabama,83
+4786,Mississippi,23
+2621,California,98
+4593,Mississippi,37
+3322,California,73
+153,Utah,41
+3031,Arizona,78
+2609,Louisiana,90
+4973,Virgin Islands,58
+3913,Arkansas,78
+492,Ohio,49
+315,Oklahoma,74
+876,Massachusetts,18
+4116,Illinois,65
+2211,Ohio,65
+3460,Alabama,18
+2871,District of Columbia,69
+2242,California,19
+4236,Rhode Island,83
+965,California,82
+4260,Guam,54
+4699,Virginia,19
+4023,New York,26
+3899,Pennsylvania,47
+450,Wisconsin,56
+3531,Alaska,37
+2741,Utah,97
+2110,Virginia,59
+408,Utah,89
+3957,Minnesota,34
+3274,New Hampshire,98
+3905,Wyoming,19
+2550,Utah,91
+2249,Utah,73
+4888,New Jersey,40
+2566,Virgin Islands,57
+644,Delaware,89
+227,Nebraska,89
+4957,New York,89
+3770,Wyoming,39
+4313,Maine,98
+3032,Mississippi,59
+4062,District of Columbia,49
+2677,Utah,46
+198,Oklahoma,19
+4574,Virginia,84
+1684,District of Columbia,57
+4667,Maine,22
+2191,Oregon,78
+4998,Connecticut,50
+3324,New Jersey,39
+2358,Hawaii,57
+3559,Louisiana,96
+3172,New Jersey,23
+3560,Delaware,62
+3764,Connecticut,31
+2386,Arkansas,74
+4811,Ohio,81
+2443,West Virginia,54
+1687,West Virginia,42
+1987,Wyoming,26
+3586,Arizona,73
+64,Montana,52
+4657,Colorado,85
+1660,Rhode Island,47
+4731,Maine,93
+1730,Nevada,42
+4655,Kentucky,77
+588,Texas,20
+1426,Montana,46
+430,Hawaii,77
+2739,Wisconsin,38
+2499,Vermont,37
+2959,Rhode Island,91
+4879,South Dakota,39
+1700,Rhode Island,93
+528,New York,45
+148,Alaska,67
+842,Wyoming,69
+800,Kansas,91
+3538,Tennessee,78
+1436,Washington,59
+1364,Minnesota,80
+353,New Jersey,96
+4512,North Dakota,45
+1401,Alabama,54
+3837,Delaware,36
+3589,Nevada,47
+4266,Georgia,71
+2631,California,56
+1517,Virginia,40
+4600,Louisiana,75
+3501,Rhode Island,66
+4242,Louisiana,71
+2864,Florida,56
+2126,Delaware,55
+4006,Georgia,79
+3808,Delaware,56
+121,Vermont,76
+3528,Wyoming,59
+87,Montana,69
+2930,Louisiana,42
+1194,Michigan,57
+2310,Arizona,23
+1080,Vermont,56
+3790,North Carolina,84
+3473,Massachusetts,56
+2936,California,24
+231,Arizona,20
+4951,South Dakota,68
+225,Massachusetts,32
+2753,Florida,42
+3633,Puerto Rico,76
+23,Northern Mariana Islands ,25
+1332,Arkansas,21
+4708,South Dakota,30
+1312,United States Minor Outlying Islands ,23
+3285,Delaware,70
+1380,Montana,55
+3714,Pennsylvania,22
+4513,Pennsylvania,53
+1487,Nebraska,59
+825,Michigan,32
+3965,New Mexico,64
+805,Maine,52
+3268,Indiana,21
+1277,North Dakota,40
+2926,Kentucky,35
+2883,Alaska,28
+2588,Tennessee,18
+1085,Alaska,40
+1142,Maine,48
+3993,Texas,27
+138,Hawaii,44
+4469,Ohio,30
+3873,North Carolina,23
+2169,New Jersey,38
+1445,Hawaii,48
+52,Oregon,27
+1288,Illinois,40
+2656,Maryland,93
+2570,Ohio,34
+2840,Maryland,35
+3520,Tennessee,78
+3336,Maine,18
+2881,Texas,95
+1243,Missouri,41
+622,Arkansas,48
+336,Virginia,29
+4230,United States Minor Outlying Islands ,67
+3859,Minnesota,47
+3287,Texas,71
+2142,American Samoa ,83
+4744,New Hampshire,76
+2999,Maine,66
+2104,Idaho,72
+551,Arkansas,77
+1874,Ohio,24
+4447,Delaware,57
+1385,Indiana,40
+496,New Hampshire,57
+262,Tennessee,78
+1737,Wyoming,86
+3556,Virginia,78
+3727,Alabama,98
+1001,Kentucky,48
+3933,Guam,72
+3511,United States Minor Outlying Islands ,82
+4623,United States Minor Outlying Islands ,84
